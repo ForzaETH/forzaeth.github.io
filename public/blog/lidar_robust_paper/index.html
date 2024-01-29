@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8">
+<title>F1TENTH at PBL | Assessing the Robustness of LiDAR, Radar and Depth Cameras Against Ill-Reflecting Surfaces in Autonomous Vehicles: An Experimental Study</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="apple-touch-icon" sizes="180x180" href='/apple-touch-icon.png'>
+<link rel="icon" type="image/png" sizes="32x32" href='/favicon-32x32.png'>
+<link rel="icon" type="image/png" sizes="16x16" href='/favicon-16x16.png'>
+<link rel="manifest" href='/site.webmanifest'>
+
+<link href='/css/fa6.min.css' rel="stylesheet" type="text/css">
+
+
+
+
+<link rel="stylesheet" href="/css/style.min.6825fe25c259d3ef4dd589c03010c44f8c23201520c6f0613a5c876d5f7a8d9f.css" />
+
+
+<link href='/css/style.min.css' rel="stylesheet" type="text/css">
+<link rel="stylesheet" href='/css/custom.css'>
+<meta property="og:title" content="F1TENTH at PBL | Assessing the Robustness of LiDAR, Radar and Depth Cameras Against Ill-Reflecting Surfaces in Autonomous Vehicles: An Experimental Study" />
+
+
+
+
+<meta name="description" content=".">
+<meta property="og:title" content=" | " />
+<meta property="og:site_name" content="F1TENTH at PBL">
+<meta property="og:description" content=".">
+<meta property="og:url" content="https://forzaeth.ch/blog/lidar_robust_paper/">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@tech_chiba">
+
+<link rel="canonical" href="https://forzaeth.ch/blog/lidar_robust_paper/">
+
+<meta name="twitter:description" content=".">
+<meta property="article:published_time" content="2023-09-19T00:00:00&#43;00:00">
+<meta property="article:updated_time" content="2023-09-19T00:00:00&#43;00:00">
+
+
+
+
+
+<meta property="og:image" content="https://forzaeth.ch/">
+
+<meta name="twitter:title" content="Assessing the Robustness of LiDAR, Radar and Depth Cameras Against Ill-Reflecting Surfaces in Autonomous Vehicles: An Experimental Study">
+<link rel="preload" href='/css/sweetalert2.min.css' as="style"
+    onload="this.onload=null;this.rel='stylesheet'">
+
+</head>
+
+<body class="flex flex-col min-h-screen">
+  <main class="flex-grow"><header>
+    <div id="overlay">
+        <ul class="text-center list-none text-white text-3xl">
+            
+            <li class="p-2">
+                <a href="/about/">
+                    <span>About</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/blog/">
+                    <span>Blog</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/cars/">
+                    <span>Cars</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/contact/">
+                    <span>Contact</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/team/">
+                    <span>Team</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+            <a href="https://forzaeth.ch/"><img alt="Tella Logo"
+                    class="h-14 mr-3" src="/logos/logo.svg"></a>
+        </div>
+        <div class="block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top"></span>
+                <span class="middle"></span>
+                <span class="bottom"></span>
+            </div>
+        </div>
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg">
+                
+                <a href="/about/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    About
+                </a>
+                
+                <a href="/blog/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Blog
+                </a>
+                
+                <a href="/cars/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Cars
+                </a>
+                
+                <a href="/contact/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Contact
+                </a>
+                
+                <a href="/team/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Team
+                </a>
+                
+            </div>
+        </div>
+    </nav>
+</header><div class="scroll-top rounded-full">
+      <span class="icon-keyboard_arrow_up text-2xl"></span>
+    </div>
+<div class="mx-auto my-10 max-w-6xl">
+    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+        <h1 class="title text-5xl font-bold mb-3">Assessing the Robustness of LiDAR, Radar and Depth Cameras Against Ill-Reflecting Surfaces in Autonomous Vehicles: An Experimental Study</h1>
+        <section class="mb-4 text-lg">
+            <h4 id="date" class="flex flex-row items-center"><span class="icon-access_time text-2xl mr-2"></span>
+                2023/09/19 </h4>
+            
+            <h4 class="flex flex-row items-center"><span class="icon-person text-2xl mr-2"></span>Michael Lötscher
+            </h4>
+            
+            
+            <div id="categories" class="flex flex-row items-center">
+                <span class="icon-folder text-2xl mr-1"></span>
+                
+                <span
+                    class="inline-flex py-1 leading-4 content-center justify-center px-1 text-blue-600 hover:text-blue-800 duration-200"><a
+                        href='https://forzaeth.ch/categories/papers'>papers</a></span>
+                
+                <span
+                    class="inline-flex py-1 leading-4 content-center justify-center px-1 text-blue-600 hover:text-blue-800 duration-200"><a
+                        href='https://forzaeth.ch/categories/sensors'>sensors</a></span>
+                
+            </div>
+            
+        </section>
+        
+        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><h2 id="abstract">Abstract</h2>
+<p>Range-measuring sensors play a critical role in autonomous driving systems. While LiDAR technology has been dominant, its vulnerability to adverse weather conditions is well-documented. This paper focuses on secondary adverse conditions and the implications of ill-reflective surfaces on range measurement sensors. We assess the influence of this condition on the three primary ranging modalities used in autonomous mobile robotics: LiDAR, RADAR, and Depth-Camera. Based on accurate experimental evaluation the papers findings reveal that under ill-reflectivity, LiDAR ranging performance drops significantly to 33% of its nominal operating conditions, whereas RADAR and Depth-Cameras maintain up to 100% of their nominal distance ranging capabilities. Additionally, we demonstrate on a 1:10 scaled autonomous racecar how ill-reflectivity adversely impacts downstream robotics tasks, highlighting the necessity for robust range sensing in autonomous driving.</p>
+</div>
+        <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
+            <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fforzaeth.ch%2fblog%2flidar_robust_paper%2f&text=Assessing%20the%20Robustness%20of%20LiDAR%2c%20Radar%20and%20Depth%20Cameras%20Against%20Ill-Reflecting%20Surfaces%20in%20Autonomous%20Vehicles%3a%20An%20Experimental%20Study" target="_blank"
+                title="Tweet" class="share-button twitter">
+                <div class="text-white text-center">
+                    <span class="icon-twitter text-lg mr-2"></span>Twitter
+                </div>
+            </a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fforzaeth.ch%2fblog%2flidar_robust_paper%2f&t=Assessing%20the%20Robustness%20of%20LiDAR%2c%20Radar%20and%20Depth%20Cameras%20Against%20Ill-Reflecting%20Surfaces%20in%20Autonomous%20Vehicles%3a%20An%20Experimental%20Study" target="_blank"
+                title="Facebook" class="share-button facebook">
+                <div class="text-white text-center">
+                    <span class="icon-facebook text-lg mr-2"></span>Facebook
+                </div>
+            </a>
+            <a href="https://b.hatena.ne.jp/add?mode=confirm&url=https%3a%2f%2fforzaeth.ch%2fblog%2flidar_robust_paper%2f&title=Assessing%20the%20Robustness%20of%20LiDAR%2c%20Radar%20and%20Depth%20Cameras%20Against%20Ill-Reflecting%20Surfaces%20in%20Autonomous%20Vehicles%3a%20An%20Experimental%20Study" target="_blank"
+                title="hatena" class="share-button hatena">
+                <div class="text-white text-center">
+                    <span class="icon-hatenabookmark text-lg mr-2"></span>Hatena
+                </div>
+            </a>
+            <a href="https://getpocket.com/edit?url=https%3a%2f%2fforzaeth.ch%2fblog%2flidar_robust_paper%2f&title=Assessing%20the%20Robustness%20of%20LiDAR%2c%20Radar%20and%20Depth%20Cameras%20Against%20Ill-Reflecting%20Surfaces%20in%20Autonomous%20Vehicles%3a%20An%20Experimental%20Study" target="_blank" title="pocket"
+                class="share-button pocket">
+                <div class="text-white text-center">
+                    <span class="icon-get-pocket text-lg mr-2"></span>Pocket
+                </div>
+            </a>
+            <a href="https://timeline.line.me/social-plugin/share?url=https%3a%2f%2fforzaeth.ch%2fblog%2flidar_robust_paper%2f" class="share-button line">
+                <div class="text-white text-center">
+                    <span class="icon-line text-lg mr-2"></span>LINE
+                </div>
+            </a>
+            <a href="javascript:OnClickURL();" class="share-button url" title="Copy to Clipboard"
+                data-clipboard-text="Assessing the Robustness of LiDAR, Radar and Depth Cameras Against Ill-Reflecting Surfaces in Autonomous Vehicles: An Experimental Study https://forzaeth.ch/blog/lidar_robust_paper/" id="url">
+                <div class="text-white text-center">
+                    <span class="icon-link text-lg mr-2"></span>Copy
+                </div>
+            </a>
+        </div>
+        <hr class="py-4">
+        <aside id="meta">
+            <div class="grid grid-cols-2">
+                <div class="col-span-1">
+                    
+                    <a class="previous lg:text-2xl" href="https://forzaeth.ch/blog/icra_23/">
+                        <div
+                            class="transition-colors duration-300 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
+                            <span class="icon-keyboard_arrow_left"></span> ICRA 2023 F1TENTH GP
+                        </div>
+                    </a>
+                    
+                </div>
+                
+                <a class="next lg:text-2xl" href="https://forzaeth.ch/blog/synpf_paper/">
+                    <div
+                        class="transition-colors duration-300 col-span-1 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
+                        Robustness Evaluation of Localization Techniques for Autonomous Racing <span class="icon-keyboard_arrow_right"></span>
+                    </div>
+                </a>
+                
+            </div>
+        </aside>
+    </div>
+</div>
+
+  </main><footer class="bg-tlgray-100">
+  
+  <script src='/js/clipboard.min.js'></script>
+  <script src='/js/highlight.min.js'></script>
+  <script src='/js/highlightjs-line-numbers.min.js'></script>
+  <script src='/js/sweetalert2.min.js'></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    hljs.initLineNumbersOnLoad();
+    new ClipboardJS('.url');
+
+    function OnClickURL() {
+      Swal.fire({
+        icon: 'success',
+        title: 'Copied!',
+        text: 'Copied the URL and title.'
+      })
+    }
+  </script>
+  
+  <script>
+    function toggleNav() {
+      var hamburger = document.getElementById("hamburgerbtn");
+      var overlay = document.getElementById("overlay");
+      var body = document.body;
+
+      hamburger.addEventListener("click", function () {
+        overlay.classList.toggle("open");
+        hamburger.classList.toggle("is-open");
+        body.classList.toggle("scroll-lock");
+      });
+    }
+    toggleNav();
+
+    document.querySelector('.scroll-top').addEventListener('click', () => {
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet" />
+  
+  <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+    <div class="items-center text-xl text-grey-900 mr-6">
+      Tella
+    </div>
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:flex-grow">
+      </div>
+      <div class="flex flex-row items-center text-lg">
+        
+        <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Home
+          
+        </a>
+        
+        <a href="https://github.com/opera7133/tella" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          <i class='icon-github text-2xl'></i>
+          
+        </a>
+        
+      </div>
+    </div>
+  </div>
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
+    &copy; F1TENTH at PBL 2024 All Rights Reserved.
+  </div>
+</footer>
+</body>
+
+</html>

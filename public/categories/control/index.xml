@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>control on F1TENTH at PBL</title>
+    <link>https://forzaeth.ch/categories/control/</link>
+    <description>Recent content in control on F1TENTH at PBL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://forzaeth.ch/categories/control/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MAP Paper</title>
+      <link>https://forzaeth.ch/blog/map_paper/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://forzaeth.ch/blog/map_paper/</guid>
+      <description>MAP Paper Abstract Autonomous racing is a research field gaining large popularity, as it pushes autonomous driving algorithms to their limits and serves as a catalyst for general autonomous driving. For scaled autonomous racing platforms, the computational constraint and complexity often limit the use of Model Predictive Control (MPC). As a consequence, geometric controllers are the most frequently deployed controllers. They prove to be performant while yielding implementation and operational simplicity.</description>
+    </item>
+  </channel>
+</rss>

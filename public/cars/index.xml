@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cars on F1TENTH at PBL</title>
+    <link>https://forzaeth.ch/cars/</link>
+    <description>Recent content in Cars on F1TENTH at PBL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
+    <atom:link href="https://forzaeth.ch/cars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NUC1</title>
+      <link>https://forzaeth.ch/cars/nuc1/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>https://forzaeth.ch/cars/nuc1/</guid>
+      <description>Once upon a time NUC1 was the MPC machine. Now it is the CI server</description>
+    </item>
+    <item>
+      <title>NUC2</title>
+      <link>https://forzaeth.ch/cars/nuc2/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>https://forzaeth.ch/cars/nuc2/</guid>
+      <description>NUC2 is now the oldest car to date that still runs. It is kinda broken.</description>
+    </item>
+    <item>
+      <title>NUC3</title>
+      <link>https://forzaeth.ch/cars/nuc3/</link>
+      <pubDate>Tue, 28 Jan 2020 14:07:07 +0100</pubDate>
+      <guid>https://forzaeth.ch/cars/nuc3/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

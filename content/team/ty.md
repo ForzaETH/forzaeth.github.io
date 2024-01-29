@@ -1,0 +1,8 @@
+---
+title: "Tian Yi Lim"
+date: 2024-01-29T09:51:23+01:00
+draft: false
+weight: 1
+description: Team Lead
+image: "img/default.jpg"
+---

@@ -51,10 +51,16 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
+    identifier = "cars"
     name = "Cars"
-    url = "/products/"
+    url = "/cars/"
     weight = 3
+  
+  [[menu.main]]
+    identifier = "team"
+    name = "Team"
+    url = "/team/"
+    weight = 20
 
   [[menu.main]]
     identifier = "blog"
