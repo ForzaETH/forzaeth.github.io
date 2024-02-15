@@ -3,6 +3,7 @@ title: "Benedict Hildisch"
 date: 2024-01-29T11:05:33+01:00
 draft: false
 image: "img/default.jpg"
-weight: 4
+weight: 2
 description: Autonomous Racing Engineer
+tag: race_team
 ---
