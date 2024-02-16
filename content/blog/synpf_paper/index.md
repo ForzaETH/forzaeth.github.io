@@ -3,7 +3,7 @@ author = "Tian Yi Lim"
 title = "Robustness Evaluation of Localization Techniques for Autonomous Racing"
 title_short = "synpf_paper"
 date = "2024-01-15"
-# image = "blog/synpf_paper/cover.png"
+image = "blog/synpf_paper/cover.png"
 tags = [
 ]
 categories = [
@@ -12,7 +12,6 @@ categories = [
 ]
 series = ["Papers"]
 [header]
-image = "synpf_paper/cover.png"
 +++
 
 # SynPF Paper
@@ -22,3 +21,6 @@ This work introduces SynPF, an MCL-based algorithm tailored for high-speed racin
 scaled autonomous racing vehicle, this work not only highlights the vulnerabilities of existing algorithms in high-speed scenarios, tested up until 7.6 m s−1, but also emphasizes the potential of SynPF as a viable  alternative, especially in deteriorating odometry conditions.
 
 [Full Article](https://arxiv.org/abs/2401.07658)
+
+## Authors
+Tian Yi Lim, Edoardo Ghignone, Nicolas Baumann, Michele Magno

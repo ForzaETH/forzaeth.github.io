@@ -1,5 +1,5 @@
 +++
-author = "Edoardo Ghignone"
+author = "Jonathan Becker"
 title = "MAP Paper"
 title_short = "map-paper"
 date = "2023-05-02"
@@ -27,3 +27,6 @@ Autonomous racing is a research field gaining large popularity, as it pushes aut
 ## Video 
 
 {{< youtube lE_Dk1iJHHg >}}
+
+## Authors
+Jonathan Becker, Nadine Imholz, Luca Schwarzenbach, Edoardo Ghignone, Nicolas Baumann, Michele Magno

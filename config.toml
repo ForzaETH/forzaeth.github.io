@@ -41,20 +41,17 @@ enableRobotsTXT = true
     meta_description = "ForzaETH is the F1TENTH at the Center for Project Based Learning at ETH Zürich"
     meta_og_title = "ForzaETH"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
+    meta_og_url = "https://forzaeth.ch"
     meta_og_description = "ForzaETH is the F1TENTH at the Center for Project Based Learning at ETH Zürich"
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    
 
 [menu]
 
-  [[menu.main]]
-    identifier = "cars"
-    name = "Cars"
-    url = "/cars/"
-    weight = 3
+  #[[menu.main]]
+  #  identifier = "cars"
+  #  name = "Cars"
+  #  url = "/cars/"
+  #  weight = 3
   
   [[menu.main]]
     identifier = "team"
@@ -93,6 +90,6 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
+    url = "https://instagram.com/forzaeth/"
+    pre = "Instagram"
       weight = 3
