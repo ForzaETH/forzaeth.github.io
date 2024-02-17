@@ -4,7 +4,7 @@
 <head>
 
 <meta charset="utf-8">
-<title>F1TENTH at PBL | Robustness Evaluation of Localization Techniques for Autonomous Racing</title>
+<title>ForzaETH | Robustness Evaluation of Localization Techniques for Autonomous Racing</title>
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <link rel="apple-touch-icon" sizes="180x180" href='/apple-touch-icon.png'>
 <link rel="icon" type="image/png" sizes="32x32" href='/favicon-32x32.png'>
@@ -16,19 +16,19 @@
 
 
 
-<link rel="stylesheet" href="/css/style.min.6825fe25c259d3ef4dd589c03010c44f8c23201520c6f0613a5c876d5f7a8d9f.css" />
+<link rel="stylesheet" href="/css/style.min.261421c0847d7b8e90143530d7de21d64338a4303357b57d9e2e1a947d4bd911.css" />
 
 
 <link href='/css/style.min.css' rel="stylesheet" type="text/css">
 <link rel="stylesheet" href='/css/custom.css'>
-<meta property="og:title" content="F1TENTH at PBL | Robustness Evaluation of Localization Techniques for Autonomous Racing" />
+<meta property="og:title" content="ForzaETH | Robustness Evaluation of Localization Techniques for Autonomous Racing" />
 
 
 
 
 <meta name="description" content="SynPF Paper Abstract This work introduces SynPF, an MCL-base">
 <meta property="og:title" content=" | " />
-<meta property="og:site_name" content="F1TENTH at PBL">
+<meta property="og:site_name" content="ForzaETH">
 <meta property="og:description" content="SynPF Paper Abstract This work introduces SynPF, an MCL-base">
 <meta property="og:url" content="https://forzaeth.ch/blog/synpf_paper/">
 <meta property="og:type" content="article">
@@ -46,13 +46,16 @@
 
 
 
-<meta property="og:image" content="https://forzaeth.ch/">
+    
+<meta property="og:image" content="https://forzaeth.ch/blog/synpf_paper/cover.png">
+    
 
 <meta name="twitter:title" content="Robustness Evaluation of Localization Techniques for Autonomous Racing">
 <link rel="preload" href='/css/sweetalert2.min.css' as="style"
     onload="this.onload=null;this.rel='stylesheet'">
 
 </head>
+
 
 <body class="flex flex-col min-h-screen">
   <main class="flex-grow"><header>
@@ -72,8 +75,8 @@
             </li>
             
             <li class="p-2">
-                <a href="/cars/">
-                    <span>Cars</span>
+                <a href="/team/">
+                    <span>Team</span>
                 </a>
             </li>
             
@@ -83,17 +86,11 @@
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/team/">
-                    <span>Team</span>
-                </a>
-            </li>
-            
         </ul>
     </div>
     <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
         <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
-            <a href="https://forzaeth.ch/"><img alt="Tella Logo"
+            <a href="https://forzaeth.ch/"><img alt="ForzaETH Logo"
                     class="h-14 mr-3" src="/logos/logo.svg"></a>
         </div>
         <div class="block lg:hidden">
@@ -118,19 +115,14 @@
                     Blog
                 </a>
                 
-                <a href="/cars/"
+                <a href="/team/"
                     class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
-                    Cars
+                    Team
                 </a>
                 
                 <a href="/contact/"
                     class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
                     Contact
-                </a>
-                
-                <a href="/team/"
-                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
-                    Team
                 </a>
                 
             </div>
@@ -165,48 +157,17 @@
             
         </section>
         
+        <img class="my-4" src="https://forzaeth.ch/blog/synpf_paper/cover.png">
+        
         <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><h1 id="synpf-paper">SynPF Paper</h1>
 <h2 id="abstract">Abstract</h2>
 <p>This work introduces SynPF, an MCL-based algorithm tailored for high-speed racing environments. Benchmarked against Cartographer, a state-of-the-art pose-graph SLAM algorithm, SynPF leverages synergies from previous particle-filtering methods and synthesizes them for the high-performance racing domain. Our extensive in-field evaluations reveal that while Cartographer excels under nominal conditions, it struggles when subjected to wheel-slip—a common phenomenon in a racing scenario due to varying grip levels and aggressive driving behaviour. Conversely, SynPF demonstrates robustness in these challenging conditions and a low-latency computation time of 1.25 ms on on-board computers without a GPU. Using the F1TENTH platform, a 1:10
 scaled autonomous racing vehicle, this work not only highlights the vulnerabilities of existing algorithms in high-speed scenarios, tested up until 7.6 m s−1, but also emphasizes the potential of SynPF as a viable  alternative, especially in deteriorating odometry conditions.</p>
+<p><a href="https://arxiv.org/abs/2401.07658">Full Article</a></p>
+<h2 id="authors">Authors</h2>
+<p>Tian Yi Lim, Edoardo Ghignone, Nicolas Baumann, Michele Magno</p>
 </div>
-        <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
-            <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fforzaeth.ch%2fblog%2fsynpf_paper%2f&text=Robustness%20Evaluation%20of%20Localization%20Techniques%20for%20Autonomous%20Racing" target="_blank"
-                title="Tweet" class="share-button twitter">
-                <div class="text-white text-center">
-                    <span class="icon-twitter text-lg mr-2"></span>Twitter
-                </div>
-            </a>
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fforzaeth.ch%2fblog%2fsynpf_paper%2f&t=Robustness%20Evaluation%20of%20Localization%20Techniques%20for%20Autonomous%20Racing" target="_blank"
-                title="Facebook" class="share-button facebook">
-                <div class="text-white text-center">
-                    <span class="icon-facebook text-lg mr-2"></span>Facebook
-                </div>
-            </a>
-            <a href="https://b.hatena.ne.jp/add?mode=confirm&url=https%3a%2f%2fforzaeth.ch%2fblog%2fsynpf_paper%2f&title=Robustness%20Evaluation%20of%20Localization%20Techniques%20for%20Autonomous%20Racing" target="_blank"
-                title="hatena" class="share-button hatena">
-                <div class="text-white text-center">
-                    <span class="icon-hatenabookmark text-lg mr-2"></span>Hatena
-                </div>
-            </a>
-            <a href="https://getpocket.com/edit?url=https%3a%2f%2fforzaeth.ch%2fblog%2fsynpf_paper%2f&title=Robustness%20Evaluation%20of%20Localization%20Techniques%20for%20Autonomous%20Racing" target="_blank" title="pocket"
-                class="share-button pocket">
-                <div class="text-white text-center">
-                    <span class="icon-get-pocket text-lg mr-2"></span>Pocket
-                </div>
-            </a>
-            <a href="https://timeline.line.me/social-plugin/share?url=https%3a%2f%2fforzaeth.ch%2fblog%2fsynpf_paper%2f" class="share-button line">
-                <div class="text-white text-center">
-                    <span class="icon-line text-lg mr-2"></span>LINE
-                </div>
-            </a>
-            <a href="javascript:OnClickURL();" class="share-button url" title="Copy to Clipboard"
-                data-clipboard-text="Robustness Evaluation of Localization Techniques for Autonomous Racing https://forzaeth.ch/blog/synpf_paper/" id="url">
-                <div class="text-white text-center">
-                    <span class="icon-link text-lg mr-2"></span>Copy
-                </div>
-            </a>
-        </div>
+        
         <hr class="py-4">
         <aside id="meta">
             <div class="grid grid-cols-2">
@@ -276,7 +237,7 @@ scaled autonomous racing vehicle, this work not only highlights the vulnerabilit
   
   <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
     <div class="items-center text-xl text-grey-900 mr-6">
-      Tella
+      ForzaETH
     </div>
     <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
       <div class="text-lg lg:flex-grow">
@@ -289,9 +250,15 @@ scaled autonomous racing vehicle, this work not only highlights the vulnerabilit
           
         </a>
         
-        <a href="https://github.com/opera7133/tella" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+        <a href="/contact/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
           
-          <i class='icon-github text-2xl'></i>
+          Contact
+          
+        </a>
+        
+        <a href="https://instagram.com/forzaeth/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Instagram
           
         </a>
         
@@ -299,7 +266,7 @@ scaled autonomous racing vehicle, this work not only highlights the vulnerabilit
     </div>
   </div>
   <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
-    &copy; F1TENTH at PBL 2024 All Rights Reserved.
+    &copy; ForzaETH 2024 All Rights Reserved.
   </div>
 </footer>
 </body>
