@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Team on F1TENTH at PBL</title>
+    <title>Team on ForzaETH</title>
     <link>https://forzaeth.ch/team/</link>
-    <description>Recent content in Team on F1TENTH at PBL</description>
+    <description>Recent content in Team on ForzaETH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 29 Jan 2024 11:10:55 +0100</lastBuildDate>
@@ -20,6 +20,20 @@
       <link>https://forzaeth.ch/team/lucat/</link>
       <pubDate>Mon, 29 Jan 2024 09:50:04 +0100</pubDate>
       <guid>https://forzaeth.ch/team/lucat/</guid>
+      <description>Test luca</description>
+    </item>
+    <item>
+      <title>Nadine Imholz</title>
+      <link>https://forzaeth.ch/team/nadinei/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>https://forzaeth.ch/team/nadinei/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benedict Hildisch</title>
+      <link>https://forzaeth.ch/team/benedicth/</link>
+      <pubDate>Mon, 29 Jan 2024 11:05:33 +0100</pubDate>
+      <guid>https://forzaeth.ch/team/benedicth/</guid>
       <description></description>
     </item>
     <item>
@@ -28,13 +42,6 @@
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       <guid>https://forzaeth.ch/team/charlotteo/</guid>
       <description>Charlotte Ochsner is our PR manager</description>
-    </item>
-    <item>
-      <title>Benedict Hildisch</title>
-      <link>https://forzaeth.ch/team/benedicth/</link>
-      <pubDate>Mon, 29 Jan 2024 11:05:33 +0100</pubDate>
-      <guid>https://forzaeth.ch/team/benedicth/</guid>
-      <description></description>
     </item>
     <item>
       <title>Nicolas Baumann</title>
@@ -48,13 +55,6 @@
       <link>https://forzaeth.ch/team/edo/</link>
       <pubDate>Mon, 29 Jan 2024 11:10:52 +0100</pubDate>
       <guid>https://forzaeth.ch/team/edo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nadine Imholz</title>
-      <link>https://forzaeth.ch/team/nadinei/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>https://forzaeth.ch/team/nadinei/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>F1TENTH at PBL</title>
+    <title>ForzaETH</title>
     <link>https://forzaeth.ch/</link>
-    <description>Recent content on F1TENTH at PBL</description>
+    <description>Recent content on ForzaETH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jan 2024 11:10:55 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 15:47:26 +0100</lastBuildDate>
     <atom:link href="https://forzaeth.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tian Yi Lim</title>
@@ -20,34 +20,13 @@
       <link>https://forzaeth.ch/team/lucat/</link>
       <pubDate>Mon, 29 Jan 2024 09:50:04 +0100</pubDate>
       <guid>https://forzaeth.ch/team/lucat/</guid>
-      <description></description>
+      <description>Test luca</description>
     </item>
     <item>
-      <title>NUC1</title>
-      <link>https://forzaeth.ch/cars/nuc1/</link>
-      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://forzaeth.ch/cars/nuc1/</guid>
-      <description>Once upon a time NUC1 was the MPC machine. Now it is the CI server</description>
-    </item>
-    <item>
-      <title>Charlotte Ochsner</title>
-      <link>https://forzaeth.ch/team/charlotteo/</link>
-      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://forzaeth.ch/team/charlotteo/</guid>
-      <description>Charlotte Ochsner is our PR manager</description>
-    </item>
-    <item>
-      <title>NUC2</title>
-      <link>https://forzaeth.ch/cars/nuc2/</link>
-      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://forzaeth.ch/cars/nuc2/</guid>
-      <description>NUC2 is now the oldest car to date that still runs. It is kinda broken.</description>
-    </item>
-    <item>
-      <title>NUC3</title>
-      <link>https://forzaeth.ch/cars/nuc3/</link>
-      <pubDate>Tue, 28 Jan 2020 14:07:07 +0100</pubDate>
-      <guid>https://forzaeth.ch/cars/nuc3/</guid>
+      <title>Nadine Imholz</title>
+      <link>https://forzaeth.ch/team/nadinei/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>https://forzaeth.ch/team/nadinei/</guid>
       <description></description>
     </item>
     <item>
@@ -56,6 +35,13 @@
       <pubDate>Mon, 29 Jan 2024 11:05:33 +0100</pubDate>
       <guid>https://forzaeth.ch/team/benedicth/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Charlotte Ochsner</title>
+      <link>https://forzaeth.ch/team/charlotteo/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>https://forzaeth.ch/team/charlotteo/</guid>
+      <description>Charlotte Ochsner is our PR manager</description>
     </item>
     <item>
       <title>Nicolas Baumann</title>
@@ -72,10 +58,10 @@
       <description></description>
     </item>
     <item>
-      <title>Nadine Imholz</title>
-      <link>https://forzaeth.ch/team/nadinei/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>https://forzaeth.ch/team/nadinei/</guid>
+      <title>PBL</title>
+      <link>https://forzaeth.ch/sponsors/pbl/</link>
+      <pubDate>Fri, 16 Feb 2024 15:47:26 +0100</pubDate>
+      <guid>https://forzaeth.ch/sponsors/pbl/</guid>
       <description></description>
     </item>
     <item>
@@ -83,7 +69,7 @@
       <link>https://forzaeth.ch/blog/iac_sim_24/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/blog/iac_sim_24/</guid>
-      <description>Second Place at CES Las Vegas</description>
+      <description>A team comprised of five master students secured a prestigious second place in the Indy autonomous race simulation at the tech event CES in Las Vegas. This marked a first step in extending the ForzaETH Race Stack to full-scale autonomous racing. ForzaETH’s team was only surpassed by the experienced PoliMOVE Autonomous Racing Team from Politecnico di Milano. An exceptional and very promising achievement for the future.&#xA;Article on the ETH D-ITET Website</description>
     </item>
     <item>
       <title>Robustness Evaluation of Localization Techniques for Autonomous Racing</title>
@@ -104,42 +90,56 @@
       <link>https://forzaeth.ch/blog/icra_23/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/blog/icra_23/</guid>
-      <description>We won at ICRA 2023 in london [https://ee.ethz.ch/de/news-und-veranstaltungen/d-itet-news-channel/2023/06/center-for-project-based-learning-champions-of-the-f1tenth-competition-at-icra2023.html](ETH-ITET Article)</description>
+      <description>A team of six Students worked on further improving the autonomous racing stack as part of their bachelor, semester and master thesis. Thanks to this research we improved localization, obstacle detection and control of the&#xA;ETH-ITET Article</description>
     </item>
     <item>
       <title>About</title>
       <link>https://forzaeth.ch/about/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/about/</guid>
-      <description>ForzaETH is the F1TENTH team at the Center for Project Based Learning, D-ITET, ETH Zürich.&#xA;More details at the video below This website is built with Hugo, with the theme Tella. It is hosted by github pages. Learn more and contribute on GitHub.</description>
+      <description>ForzaETH is the F1TENTH team at the Center for Project Based Learning, D-ITET, ETH Zürich.&#xA;Who are we? ForzaETH is a team of students engaged in autonomous racing at a 1:10 scale. The team originated in the fall of 2021 and began as a research project at the Center for Project-Based Learning at ETH Zurich. We develop autonomous race cars to participate in international F1TENTH races. F1TENTH is an autonomous racing organization where teams compete against each other using standardized 1:10 scale model car chassis, which are then modified with sensors and processors of the team&amp;rsquo;s choice.</description>
     </item>
     <item>
       <title>MAP Paper</title>
       <link>https://forzaeth.ch/blog/map_paper/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/blog/map_paper/</guid>
-      <description>MAP Paper Abstract Autonomous racing is a research field gaining large popularity, as it pushes autonomous driving algorithms to their limits and serves as a catalyst for general autonomous driving. For scaled autonomous racing platforms, the computational constraint and complexity often limit the use of Model Predictive Control (MPC). As a consequence, geometric controllers are the most frequently deployed controllers. They prove to be performant while yielding implementation and operational simplicity.</description>
+      <description>MAP Paper A big reason for the teams outstanding performance at the F1TENTH Grand Prix is our Path tracking controller. Developed by thesis students for our first Race at ICRA 2022, the Model- and Acceleration-based Pursuit controller allows us to track our racing line at speeds close to the limit of friction. The paper was published and presented at the International Conference on Robotics and Automation 2023 in London.&#xA;Abstract Autonomous racing is a research field gaining large popularity, as it pushes autonomous driving algorithms to their limits and serves as a catalyst for general autonomous driving.</description>
+    </item>
+    <item>
+      <title>TC-Driver: A Trajectory Conditioned Reinforcement Learning Approach to Zero-Shot Autonomous Racing</title>
+      <link>https://forzaeth.ch/blog/tc_driver/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://forzaeth.ch/blog/tc_driver/</guid>
+      <description>￼&#xA;TC-Driver Abstract Autonomous racing is becoming popular for academic and industry researchers as a test for general autonomous driving by pushing perception, planning, and control algorithms to their limits. While traditional control methods such as model predictive control are capable of generating an optimal control sequence at the edge of the vehicles’ physical controllability, these methods are sensitive to the accuracy of the modeling parameters, such as tire modeling coefficients.</description>
+    </item>
+    <item>
+      <title>Your Logo here</title>
+      <link>https://forzaeth.ch/sponsors/your_logo_here/</link>
+      <pubDate>Thu, 16 Feb 2023 15:54:01 +0100</pubDate>
+      <guid>https://forzaeth.ch/sponsors/your_logo_here/</guid>
+      <description></description>
     </item>
     <item>
       <title>Germany Race</title>
       <link>https://forzaeth.ch/blog/germany_22/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/blog/germany_22/</guid>
-      <description>We won the germany race!&#xA;Cool video </description>
+      <description>On August 20 and 21, 2022, the ForzaETH team participated in its second race at the F1TENTH Grand Prix held at the Lausitzring Eurospeedway racetrack. Nine teams were in contention for victory during this tournament.&#xA;During the initial day of the competition, the team demonstrated exceptional performance by securing the top position in the qualifying phase. They achieved this feat by completing the most consecutive laps in five minutes and recording the fastest lap time.</description>
     </item>
     <item>
       <title>ICRA 2022</title>
       <link>https://forzaeth.ch/blog/icra_22/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/blog/icra_22/</guid>
-      <description>Our first F1TENTH Grand Prix at ICRA 2022 in Philadelphia</description>
+      <description>A group of students, consisting of three undergraduates and one master&amp;rsquo;s student, formed the inaugural Race Team. Together, they dedicated themselves to creating advanced path planning algorithms, obstacle detection systems, and velocity and path tracking controllers. Following a semester of relentless effort, the team entered its first competition — the F1TENTH Grand Prix held at the International Conference on Robotics and Automation (ICRA) in Philadelphia. The event attracted 20 teams from around the globe, all fighting for the win.</description>
     </item>
     <item>
       <title>Contact</title>
       <link>https://forzaeth.ch/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/contact/</guid>
-      <description>You can contact us at the following email:&#xA;forzaeth at gmail dot com</description>
+      <description>You can contact us at the following email:&#xA;contact@forzaeth.ch&#xA;Also follow us on Instagram to keep up to date</description>
     </item>
   </channel>
 </rss>
