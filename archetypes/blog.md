@@ -1,8 +1,8 @@
 ---
 title: ""
 date: {{ .Date }}
-image: {{ "img/blog/" + title_short + "/cover.jpg" }}
+image: "img/default.jpg"
 draft: true
-weight: 100
+weight: 1
 author: ""
----
+---￼
