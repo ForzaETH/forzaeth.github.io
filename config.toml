@@ -19,6 +19,7 @@ enableRobotsTXT = true
 [params]
 
   mainSections = ['blog']
+  sponsors = ['sponsors']
 
   googleFonts = true
 
