@@ -27,7 +27,7 @@ A promising approach to accelerate progress in this field is the exploration and
 
 ## The Team
 
-We are a dynamic group of ten students who bring their academic passion and expertise from the fields of electrical engineering, mechanical engineering, and robotics into this unique project. Each of us brings a different perspective, but what unites us is our commitment and enthusiasm for innovation.
+We are a dynamic group of students who bring their academic passion and expertise from the fields of electrical engineering, mechanical engineering, and robotics into this unique project. Each of us brings a different perspective, but what unites us is our commitment and enthusiasm for innovation.
 
 ## Our Goal
 
