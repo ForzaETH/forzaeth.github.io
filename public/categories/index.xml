@@ -9,35 +9,42 @@
     <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://forzaeth.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>race</title>
+      <title>Indy Autonomous Challenge</title>
+      <link>https://forzaeth.ch/categories/indy-autonomous-challenge/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://forzaeth.ch/categories/indy-autonomous-challenge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Race</title>
       <link>https://forzaeth.ch/categories/race/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/categories/race/</guid>
       <description></description>
     </item>
     <item>
-      <title>papers</title>
+      <title>Papers</title>
       <link>https://forzaeth.ch/categories/papers/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/categories/papers/</guid>
       <description></description>
     </item>
     <item>
-      <title>perception</title>
+      <title>Perception</title>
       <link>https://forzaeth.ch/categories/perception/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/categories/perception/</guid>
       <description></description>
     </item>
     <item>
-      <title>sensors</title>
+      <title>Sensors</title>
       <link>https://forzaeth.ch/categories/sensors/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/categories/sensors/</guid>
       <description></description>
     </item>
     <item>
-      <title>control</title>
+      <title>Control</title>
       <link>https://forzaeth.ch/categories/control/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/categories/control/</guid>

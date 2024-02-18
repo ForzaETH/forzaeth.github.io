@@ -7,8 +7,8 @@ image = "blog/map_paper/cover.png"
 tags = [
 ]
 categories = [
-    "papers",
-    "control",
+    "Papers",
+    "Control",
 ]
 series = ["Papers"]
 [header]

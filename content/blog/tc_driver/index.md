@@ -1,14 +1,17 @@
----
-title: "TC-Driver: A Trajectory Conditioned Reinforcement Learning Approach to Zero-Shot Autonomous Racing"
-date: "2023-04-01"
-image: "/blog/tc_driver/cover.png"
-draft: false
-author: "Edoardo Ghignone"
-description: ""
-catecories: ["paper"]
-tags: []
-series: [Papers]
----￼
+
++++
+author = "Edoardo Ghignone"
+title = "TC-Driver: A Trajectory Conditioned Reinforcement Learning Approach to Zero-Shot Autonomous Racing"
+title_short = "tc_driver"
+date = "2023-04-01"
+image = "/blog/tc_driver/cover.png"
+tags = []
+categories = [
+    "Papers",
+    "Control",
+]
++++
+
 # TC-Driver
 
 ## Abstract 

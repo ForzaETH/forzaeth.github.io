@@ -48,7 +48,7 @@
       <link>https://forzaeth.ch/blog/tc_driver/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://forzaeth.ch/blog/tc_driver/</guid>
-      <description>￼&#xA;TC-Driver Abstract Autonomous racing is becoming popular for academic and industry researchers as a test for general autonomous driving by pushing perception, planning, and control algorithms to their limits. While traditional control methods such as model predictive control are capable of generating an optimal control sequence at the edge of the vehicles’ physical controllability, these methods are sensitive to the accuracy of the modeling parameters, such as tire modeling coefficients.</description>
+      <description>TC-Driver Abstract Autonomous racing is becoming popular for academic and industry researchers as a test for general autonomous driving by pushing perception, planning, and control algorithms to their limits. While traditional control methods such as model predictive control are capable of generating an optimal control sequence at the edge of the vehicles’ physical controllability, these methods are sensitive to the accuracy of the modeling parameters, such as tire modeling coefficients. As model mismatch is inevitable in reality, the heuristic nature of Reinforcement Learning (RL) offers a viable approach to modeling robustness.</description>
     </item>
     <item>
       <title>Germany Race</title>

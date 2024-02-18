@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indy Autonomous Challenge on ForzaETH</title>
+    <link>https://forzaeth.ch/categories/indy-autonomous-challenge/</link>
+    <description>Recent content in Indy Autonomous Challenge on ForzaETH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://forzaeth.ch/categories/indy-autonomous-challenge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IAC SIM Race</title>
+      <link>https://forzaeth.ch/blog/iac_sim_24/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://forzaeth.ch/blog/iac_sim_24/</guid>
+      <description>A team comprised of five master students secured a prestigious second place in the Indy autonomous race simulation at the tech event CES in Las Vegas. This marked a first step in extending the ForzaETH Race Stack to full-scale autonomous racing. ForzaETH’s team was only surpassed by the experienced PoliMOVE Autonomous Racing Team from Politecnico di Milano. An exceptional and very promising achievement for the future.&#xA;Article on the ETH D-ITET Website</description>
+    </item>
+  </channel>
+</rss>
