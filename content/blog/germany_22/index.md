@@ -4,7 +4,7 @@ title = "Germany Race"
 title_short = "germany-race"
 date = "2022-08-24"
 description = "A brief description of Hugo Shortcodes"
-image = "/blog/germany_22/cover.png"
+image = "/blog/germany_22/cover2.png"
 tags = []
 categories = [
     "race",

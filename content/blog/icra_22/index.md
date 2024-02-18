@@ -6,7 +6,7 @@ draft: false
 author: ""
 decription: ""
 tags: []
-image: "/blog/icra_22/cover.jpg"
+image: "/blog/icra_22/cover2.jpg"
 categories: ["race"]
 ---
 
