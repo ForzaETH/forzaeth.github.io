@@ -133,7 +133,6 @@ strong {
   font-weight: bold;
   font-size: 18px;
   overflow: hidden; /* Ensure images don't exceed the grid item */
-  border-radius: 10px;
   border: 1px solid #ddd; /* Border color and width */
 }
 
