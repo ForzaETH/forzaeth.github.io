@@ -17,7 +17,7 @@ Learn more about F1TENTH [here](https://f1tenth.org/)
 ## Previous Achievements
 Just six months after our foundation, in 2022, we participated in the F1TENTH Grand Prix at the International Conference on Robotics and Automation (ICRA) in Philadelphia, securing a strong fourth place. In August 2022, we achieved our first victory in a smaller race in Germany. Thanks to significant progress in the development of our racing software, we triumphed over 22 teams from around the world in May 2023, winning the Grand Prix at the ICRA in London. This positions us as one of the strongest F1TENTH teams globally, and we hope to build on these successes in the future. In addition to our racing achievements, we have been able to publish some of our developments as scientific papers and participate in exhibitions such as Scientifica.
 
-Look at our [Blog]({{< ref "/blog" >}}) ot learn about our latest achievements
+Look at our [Blog]({{< ref "/blog" >}}) to learn about our latest achievements
 
 ## Why Autonomous Racing Matters
 
