@@ -6,7 +6,7 @@ date = "2023-06-01"
 description = "A brief description of Hugo Shortcodes"
 tags = []
 image = "blog/icra_23/cover.jpg"
-categories = ["race"]
+categories = ["Race"]
 +++
 
 A team of six Students worked on further improving the autonomous racing stack as part of their bachelor, semester and master thesis. Thanks to this research we improved localization, obstacle detection and control of the 

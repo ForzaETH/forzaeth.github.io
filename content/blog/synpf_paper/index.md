@@ -7,8 +7,8 @@ image = "blog/synpf_paper/cover.png"
 tags = [
 ]
 categories = [
-    "papers",
-    "perception",
+    "Papers",
+    "Perception",
 ]
 series = ["Papers"]
 [header]

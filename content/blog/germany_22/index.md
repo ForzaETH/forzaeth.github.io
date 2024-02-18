@@ -7,7 +7,7 @@ description = "A brief description of Hugo Shortcodes"
 image = "/blog/germany_22/cover2.png"
 tags = []
 categories = [
-    "race",
+    "Race",
 ]
 +++
 

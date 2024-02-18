@@ -7,7 +7,8 @@ description = "Second Place at the IAC SIM Race"
 image = "/blog/iac_sim_24/cover2.jpg"
 tags = []
 categories = [
-    "race",
+    "Race",
+    "Indy Autonomous Challenge",
 ]
 +++
 

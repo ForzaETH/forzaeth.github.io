@@ -8,8 +8,8 @@ description = "."
 tags = [
 ]
 categories = [
-    "papers",
-    "sensors",
+    "Papers",
+    "Sensors",
 ]
 series = ["Papers"]
 [header]
