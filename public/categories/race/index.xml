@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Race on ForzaETH</title>
-    <link>https://forzaeth.ch/categories/race/</link>
+    <link>http://localhost:1313/categories/race/</link>
     <description>Recent content in Race on ForzaETH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://forzaeth.ch/categories/race/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/race/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IAC SIM Race</title>
-      <link>https://forzaeth.ch/blog/iac_sim_24/</link>
+      <link>http://localhost:1313/blog/iac_sim_24/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/iac_sim_24/</guid>
+      <guid>http://localhost:1313/blog/iac_sim_24/</guid>
       <description>A team comprised of five master students secured a prestigious second place in the Indy autonomous race simulation at the tech event CES in Las Vegas. This marked a first step in extending the ForzaETH Race Stack to full-scale autonomous racing. ForzaETH’s team was only surpassed by the experienced PoliMOVE Autonomous Racing Team from Politecnico di Milano. An exceptional and very promising achievement for the future.&#xA;Article on the ETH D-ITET Website</description>
     </item>
     <item>
       <title>ICRA 2023 F1TENTH GP</title>
-      <link>https://forzaeth.ch/blog/icra_23/</link>
+      <link>http://localhost:1313/blog/icra_23/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/icra_23/</guid>
+      <guid>http://localhost:1313/blog/icra_23/</guid>
       <description>A dedicated team of six students devoted their efforts to enhancing the autonomous racing stack through their bachelor, semester, and master theses. Their research led to significant improvements in the localization, obstacle detection, and control aspects of our autonomous racing cars.&#xA;Following a semester filled with rigorous work and preparation, we eagerly entered the F1TENTH Grand Prix at the International Conference on Robotics and Automation, where 22 teams from around the world vied for the prestigious title.</description>
     </item>
     <item>
       <title>Germany Race</title>
-      <link>https://forzaeth.ch/blog/germany_22/</link>
+      <link>http://localhost:1313/blog/germany_22/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/germany_22/</guid>
+      <guid>http://localhost:1313/blog/germany_22/</guid>
       <description>On August 20 and 21, 2022, the ForzaETH team participated in its second race at the F1TENTH Grand Prix held at the Lausitzring Eurospeedway racetrack. Nine teams were in contention for victory during this tournament.&#xA;During the initial day of the competition, the team demonstrated exceptional performance by securing the top position in the qualifying phase. They achieved this feat by completing the most consecutive laps in five minutes and recording the fastest lap time.</description>
     </item>
     <item>
       <title>ICRA 2022</title>
-      <link>https://forzaeth.ch/blog/icra_22/</link>
+      <link>http://localhost:1313/blog/icra_22/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/icra_22/</guid>
+      <guid>http://localhost:1313/blog/icra_22/</guid>
       <description>A group of students, consisting of three undergraduates and one master&amp;rsquo;s student, formed the inaugural Race Team. Together, they dedicated themselves to creating advanced path planning algorithms, obstacle detection systems, and velocity and path tracking controllers. Following a semester of relentless effort, the team entered its first competition — the F1TENTH Grand Prix held at the International Conference on Robotics and Automation (ICRA) in Philadelphia. The event attracted 20 teams from around the globe, all fighting for the win.</description>
     </item>
   </channel>

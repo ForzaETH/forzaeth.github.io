@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Perception on ForzaETH</title>
-    <link>https://forzaeth.ch/categories/perception/</link>
+    <link>http://localhost:1313/categories/perception/</link>
     <description>Recent content in Perception on ForzaETH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://forzaeth.ch/categories/perception/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/perception/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robustness Evaluation of Localization Techniques for Autonomous Racing</title>
-      <link>https://forzaeth.ch/blog/synpf_paper/</link>
+      <link>http://localhost:1313/blog/synpf_paper/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/synpf_paper/</guid>
+      <guid>http://localhost:1313/blog/synpf_paper/</guid>
       <description>SynPF Paper Abstract This work introduces SynPF, an MCL-based algorithm tailored for high-speed racing environments. Benchmarked against Cartographer, a state-of-the-art pose-graph SLAM algorithm, SynPF leverages synergies from previous particle-filtering methods and synthesizes them for the high-performance racing domain. Our extensive in-field evaluations reveal that while Cartographer excels under nominal conditions, it struggles when subjected to wheel-slip—a common phenomenon in a racing scenario due to varying grip levels and aggressive driving behaviour.</description>
     </item>
   </channel>
