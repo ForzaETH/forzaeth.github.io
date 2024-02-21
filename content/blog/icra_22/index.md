@@ -6,7 +6,7 @@ draft: false
 author: "Edoardo Ghignone"
 decription: ""
 tags: []
-image: "/blog/icra_22/cover2.jpg"
+image: "/blog/icra_22/cover3.jpeg"
 categories: ["Race"]
 ---
 
