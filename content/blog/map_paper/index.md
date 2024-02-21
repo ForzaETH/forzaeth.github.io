@@ -1,6 +1,6 @@
 +++
 author = "Jonathan Becker"
-title = "MAP Paper"
+title = "Model- and Acceleration-based Pursuit (MAP) Controller for High-Performance Autonomous Racing"
 title_short = "map-paper"
 date = "2023-05-02"
 image = "blog/map_paper/cover.png"
