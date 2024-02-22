@@ -8,3 +8,5 @@ author = "Edoardo Ghignone"
 ## Scientifica 2023
 
 We showcased our autonomous racecars at Scientifica, Switzerland's largest science festival. Alongside numerous other researchers from ETH Zürich and the University of Zürich, we presented our project, to over 20'000 visitors.
+
+(Photo Credits to: Scientifica/Alessandro Della Bella)
