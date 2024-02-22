@@ -1,5 +1,5 @@
 ---
-title: "Mahmood El Minawi"
+title: "Mahmoud El Minawi"
 date: 2024-02-18T11:06:31+01:00
 draft: false
 weight: 4
