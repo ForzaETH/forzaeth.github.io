@@ -1,6 +1,6 @@
 +++
 author = "Edoardo Ghignone"
-title = "IAC SIM Race"
+title = "Indy Autonomous Challenge SIM Race"
 title_short = "iac_sim_24"
 date = "2024-01-26"
 description = "Second Place at the IAC SIM Race"
