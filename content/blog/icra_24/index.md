@@ -18,5 +18,7 @@ Despite the lack of telemetry data during the races, we advanced undefeated to t
 
 In the small final, we competed against a familiar rival, *Scuderia Segfault* from the Technical University of Vienna, whom we had faced in the finals of previous competitions. The race was intensely close, with both teams pushing their cars to the limit. After two nerve-wracking heats, we emerged victorious, securing 3rd place. This achievement once again demonstrated the reliability and performance of our ForzaETH race stack, solidifying our status as one of the top autonomous racing teams in the world.
 
+We will continue developing our car to reclaim the title and look forward to competing again at IROS 2024.
+
 
 ![Image of the Race Track](race_track_setup.jpg "Seting up the car without internet connection")
