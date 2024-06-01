@@ -7,3 +7,6 @@ featured: true
 description: Team Lead
 image: "img/default.jpg"
 ---
+
+Download the CV here:
+{{< download "CV.pdf">}}
