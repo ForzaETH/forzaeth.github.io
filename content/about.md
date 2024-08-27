@@ -31,7 +31,7 @@ We are a dynamic group of students who bring their academic passion and expertis
 
 ## Our Goal
 
-This year, our aim is to defend our title at the ICRA 2024 in Yokohama, Japan. The annual F1TENTH Grand Prix at ICRA is the largest of the year, where the strongest F1TENTH teams from around the world compete. To fund the preparation, travel, and stay in Japan, we are currently seeking sponsors who can support us.
+We want to push the boundaries of autonomous driving and contribute to the development of this technology. Our goal is to become one of the leading teams in the F1TENTH community and to inspire others to engage in this exciting field. We also want to inspire the next generation of engineers and researchers by giving them the opportunity to work on cutting-edge autonomous driving technology.
 
 
 
