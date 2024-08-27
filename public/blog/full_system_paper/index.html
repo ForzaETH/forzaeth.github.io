@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8">
+<title>ForzaETH | Open Source Race Stack and Full System Paper</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="apple-touch-icon" sizes="180x180" href='/apple-touch-icon.png'>
+<link rel="icon" type="image/png" sizes="32x32" href='/favicon-32x32.png'>
+<link rel="icon" type="image/png" sizes="16x16" href='/favicon-16x16.png'>
+<link rel="manifest" href='/site.webmanifest'>
+
+<link href='/css/fa6.min.css' rel="stylesheet" type="text/css">
+
+
+
+
+<link rel="stylesheet" href="/css/style.min.b09cb299330a603e6324ae766406bb945f888f52a195dd0a813f12ea3632fe92.css" />
+
+
+<link href='/css/style.min.css' rel="stylesheet" type="text/css">
+<link rel="stylesheet" href='/css/custom.css'>
+<meta property="og:title" content="ForzaETH | Open Source Race Stack and Full System Paper" />
+
+
+
+
+<meta name="description" content="Introducing a new era of 1:10 scaled autonomous racing:
+We a">
+<meta property="og:title" content=" | " />
+<meta property="og:site_name" content="ForzaETH">
+<meta property="og:description" content="Introducing a new era of 1:10 scaled autonomous racing:
+We a">
+<meta property="og:url" content="https://forzaeth.ch/blog/full_system_paper/">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@tech_chiba">
+
+<link rel="canonical" href="https://forzaeth.ch/blog/full_system_paper/">
+
+<meta name="twitter:description" content="Introducing a new era of 1:10 scaled autonomous racing:
+We a">
+<meta property="article:published_time" content="2024-03-18T00:00:00&#43;00:00">
+<meta property="article:updated_time" content="2024-03-18T00:00:00&#43;00:00">
+
+
+
+
+
+    
+<meta property="og:image" content="https://forzaeth.ch/blog/full_system_paper/cover.png">
+    
+
+<meta name="twitter:title" content="Open Source Race Stack and Full System Paper">
+<link rel="preload" href='/css/sweetalert2.min.css' as="style"
+    onload="this.onload=null;this.rel='stylesheet'">
+
+</head>
+
+
+<body class="flex flex-col min-h-screen">
+  <main class="flex-grow"><header>
+    <div id="overlay">
+        <ul class="text-center list-none text-white text-3xl">
+            
+            <li class="p-2">
+                <a href="/about/">
+                    <span>About</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/blog/">
+                    <span>Blog</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/team/">
+                    <span>Team</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/contact/">
+                    <span>Contact</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+            <a href="https://forzaeth.ch/"><img alt="ForzaETH Logo"
+                    class="h-14 mr-3" src="/logos/logo.svg"></a>
+        </div>
+        <div class="block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top"></span>
+                <span class="middle"></span>
+                <span class="bottom"></span>
+            </div>
+        </div>
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg">
+                
+                <a href="/about/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    About
+                </a>
+                
+                <a href="/blog/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Blog
+                </a>
+                
+                <a href="/team/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Team
+                </a>
+                
+                <a href="/contact/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Contact
+                </a>
+                
+            </div>
+        </div>
+    </nav>
+</header><div class="scroll-top rounded-full">
+      <span class="icon-keyboard_arrow_up text-2xl"></span>
+    </div>
+<div class="mx-auto my-10 max-w-6xl">
+    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+        <h1 class="title text-5xl font-bold mb-3">Open Source Race Stack and Full System Paper</h1>
+        <section class="mb-4 text-lg">
+            <h4 id="date" class="flex flex-row items-center"><span class="icon-access_time text-2xl mr-2"></span>
+                March 18, 2024 </h4>
+            
+            
+            <div id="categories" class="flex flex-row items-center">
+                <span class="icon-folder text-2xl mr-1"></span>
+                
+                <span
+                    class="inline-flex py-1 leading-4 content-center justify-center px-1 text-blue-600 hover:text-blue-800 duration-200"><a
+                        href='https://forzaeth.ch/categories/papers'>Papers</a></span>
+                
+            </div>
+            
+        </section>
+        
+        <img class="my-4" src="https://forzaeth.ch/blog/full_system_paper/cover.png">
+        
+        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>Introducing a new era of 1:10 scaled autonomous racing:</p>
+<p>We are thrilled to unveil the open-sourcing of the award-winning ForzaETH Race Stack. Showcased across numerous international F1TENTH races and securing 1st place at ICRA23, the ForzaETH Race Stack elevates the state-of-the-art, enabling new possibilities in scaled head-to-head autonomous racing.</p>
+<p>Accompanying the open-sourcing, a paper titled &ldquo;ForzaETH Race Stack - Scaled Autonomous Head-to-Head Racing on Fully Commercial off-the-Shelf Hardware&rdquo; is available on arxiv, detailing the system&rsquo;s architecture, algorithms, and performance benchmarks.</p>
+<p>We would like to express our sincere thanks to Center for Project-Based Learning (PBL) and ETH Zurich. Their support and collaboration have been pivotal in our journey.</p>
+<p>Stay tuned for more contributions as we continue to explore the limits of autonomous racing. Exciting developments, including the ROS2 version of the ForzaETH Race Stack, are on the horizon.</p>
+<p><a href="https://github.com/ForzaETH/race_stack">Link to GitHub Repository</a></p>
+<p><a href="https://arxiv.org/abs/2403.11784">Link to full Paper</a></p>
+</div>
+        
+        <hr class="py-4">
+        <aside id="meta">
+            <div class="grid grid-cols-2">
+                <div class="col-span-1">
+                    
+                    <a class="previous lg:text-2xl" href="https://forzaeth.ch/blog/iac_sim_24/">
+                        <div
+                            class="transition-colors duration-300 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
+                            <span class="icon-keyboard_arrow_left"></span> Indy Autonomous Challenge SIM Race
+                        </div>
+                    </a>
+                    
+                </div>
+                
+                <a class="next lg:text-2xl" href="https://forzaeth.ch/blog/icra_24/">
+                    <div
+                        class="transition-colors duration-300 col-span-1 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
+                        ICRA 2024 F1TENTH GP <span class="icon-keyboard_arrow_right"></span>
+                    </div>
+                </a>
+                
+            </div>
+        </aside>
+    </div>
+</div>
+
+  </main><footer class="bg-tlgray-100">
+  
+  <script src='/js/clipboard.min.js'></script>
+  <script src='/js/highlight.min.js'></script>
+  <script src='/js/highlightjs-line-numbers.min.js'></script>
+  <script src='/js/sweetalert2.min.js'></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    hljs.initLineNumbersOnLoad();
+    new ClipboardJS('.url');
+
+    function OnClickURL() {
+      Swal.fire({
+        icon: 'success',
+        title: 'Copied!',
+        text: 'Copied the URL and title.'
+      })
+    }
+  </script>
+  
+  <script>
+    function toggleNav() {
+      var hamburger = document.getElementById("hamburgerbtn");
+      var overlay = document.getElementById("overlay");
+      var body = document.body;
+
+      hamburger.addEventListener("click", function () {
+        overlay.classList.toggle("open");
+        hamburger.classList.toggle("is-open");
+        body.classList.toggle("scroll-lock");
+      });
+    }
+    toggleNav();
+
+    document.querySelector('.scroll-top').addEventListener('click', () => {
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet" />
+  
+  <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+    <div class="items-center text-xl text-grey-900 mr-6">
+      ForzaETH
+    </div>
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:flex-grow">
+      </div>
+      <div class="flex flex-row items-center text-lg">
+        
+        <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Home
+          
+        </a>
+        
+        <a href="/contact/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Contact
+          
+        </a>
+        
+        <a href="https://instagram.com/forzaeth/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Instagram
+          
+        </a>
+        
+      </div>
+    </div>
+  </div>
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
+    &copy; ForzaETH 2024 All Rights Reserved.
+  </div>
+</footer>
+</body>
+
+</html>
