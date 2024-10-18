@@ -19,9 +19,7 @@ During the free practice, the team was quickly able to obtain the all-imporant t
 
 With some further tuning, we were able to drive with some precision, our car consistently almost brushing each corner apex as we chased higher and higher cornering speeds. The truly fast-paced nature of this racetrack proved challenging -- the car's hardware was pushed to its limit, and our state estimation and control algorithms had never before seen these high accelerations. Still, our [race stack](https://github.com/ForzaETH/race_stack) could consistently perform fast laps around the track. This gave us confidence pushing forward into the *Time-Trials* phase.
 
-[![Sending it around the IROS24 track!]
-(https://img.youtube.com/vi/G3gGeEaX5ks/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=G3gGeEaX5ks)
+[![Sending it around the IROS24 track!](https://img.youtube.com/vi/G3gGeEaX5ks/maxresdefault.jpg)](https://www.youtube.com/watch?v=G3gGeEaX5ks)
 
 In Time-Trials, we faced two familar opponents and friends -- [*Dzik Ultimate*](https://www.linkedin.com/in/lsztyber/) from Poland and [*Scuderia Segfualt*](https://www.tuwien.at/inf/f1tenth/). Teams had to choose beforehand whether to go for *consistency* (number of consecutive laps without crashing) over *performance* (best overall lap time) in the two time-trial heats.
 
@@ -33,16 +31,14 @@ Before the Head-to-head race, we continued to attempt to find more pace to close
 
 During the Head-to-head race, we were pitted against *Scuderia Segfault* first, in a best-of-3 knockout. The tuning we did previouly meant we reduced the safety margins excessively, and in the first round, our car exceeded track-limits too often, leading to our disqualification in that round despite our car being faster. We expected to be able to win on pace in the second round, however a software glitch occured and caused our car's performance to drop drastically. Disappointingly, we were knocked out, leaving us with overall 3rd place.
 
-[![Trailing Scuderia Segfault!]
-(https://img.youtube.com/vi/pdfRBNpUTo0/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=pdfRBNpUTo0)
+[![Trailing Scuderia Segfault!](https://img.youtube.com/vi/pdfRBNpUTo0/maxresdefault.jpg)](https://www.youtube.com/watch?v=pdfRBNpUTo0)
 
 Still, we are satisfied with our performance this competition. During practice, we were able to **trail** slower opponents and overtake them with [Predictive Spliner](https://github.com/ForzaETH/predictive-spliner), our overtaking algorithm that estimates the opponent's trajectory, and allows us to make some really awesome overtakes!
 
-[![Predictive Spliner against a demo car]
-(https://img.youtube.com/vi/zq-L64i11mM/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=zq-L64i11mM)
+[![Predictive Spliner against a demo car](https://img.youtube.com/vi/zq-L64i11mM/maxresdefault.jpg)](https://www.youtube.com/watch?v=zq-L64i11mM)
 
 At the end of the competition, we even had a demo 3-car race with *Scuderia Segfault* -- a sneak peek of things to come. While we can't say that any team was particularly performant over the race, we're excited for the future of F1TENTH!
 
 See you at the next competition -- CDC 2024 in Milano, or ICRA 25 in Atlanta!
+
+![Endpic](end-pic.jpg)
