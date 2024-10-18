@@ -8,7 +8,7 @@ image = "blog/iros_24/cover.jpg"
 categories = ["Race"]
 +++
 
-The ForzaETH race team once again raced at the [*21st F1TENTH https://iros2024-race.f1tenth.org/*](https://iros2024-race.f1tenth.org/) at [IROS 2024](https://iros2024-abudhabi.org/) in Abu Dhabi, UAE. Following our [3rd place](blog/iros24/index.md) finish in Japan, the team worked hard to try to reclaim the title.
+The ForzaETH race team once again raced at the [*21st F1TENTH https://iros2024-race.f1tenth.org/*](https://iros2024-race.f1tenth.org/) at [IROS 2024](https://iros2024-abudhabi.org/) in Abu Dhabi, UAE. Following our 3rd place finish in Japan, the team worked hard to try to reclaim the title.
 
 The floor surface at IROS proved to be extremely grippy carpet. While the track area was smaller than at previous competitions, the track layout was technical, with sweeping corners, a hairpin, and chicanes. By our estimates, this would provide more than twice the lateral grip than we faced in Japan. This was a surprise to us, as we had spent most of the preparation time on lower-grip surfaces. Would our hardware and software be up for the task in this unfamiliar grip regime?
 
