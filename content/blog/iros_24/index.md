@@ -27,7 +27,7 @@ In the first heat, we opted for consistency, attaining **40** laps without crash
 
 Ultimately, our team placed **2nd** out of 6 teams in qualification, slotting behind Dzik Ultimate (6.6s) and ahead of Scuderia Segfault (7.4s). If we wanted a chance to take the overall win, we needed to find even more pace...
 
-Before the Head-to-head race, we continued to attempt to find more pace to close the ~0.5s gap to Dzik Ultimate, trying out our bleeding-edge Reinforcement Learning **TODO RLPP cite?** and even doubling the current limit on our car's ESC. Unfortunately, all these experimental changes did not give us the performance we needed, and showed the limit of our software performance.
+Before the Head-to-head race, we continued to attempt to find more pace to close the ~0.5s gap to Dzik Ultimate, trying out our bleeding-edge Reinforcement Learning residual controller (paper soon!) and even doubling the current limit on our car's ESC. Unfortunately, all these experimental changes did not give us the performance we needed, and showed the limit of our software performance.
 
 During the Head-to-head race, we were pitted against *Scuderia Segfault* first, in a best-of-3 knockout. The tuning we did previouly meant we reduced the safety margins excessively, and in the first round, our car exceeded track-limits too often, leading to our disqualification in that round despite our car being faster. We expected to be able to win on pace in the second round, however a software glitch occured and caused our car's performance to drop drastically. Disappointingly, we were knocked out, leaving us with overall 3rd place.
 
