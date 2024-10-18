@@ -12,7 +12,7 @@ The ForzaETH race team once again raced at the [*21st F1TENTH https://iros2024-r
 
 The floor surface at IROS proved to be extremely grippy carpet. While the track area was smaller than at previous competitions, the track layout was technical, with sweeping corners, a hairpin, and chicanes. By our estimates, this would provide more than twice the lateral grip than we faced in Japan. This was a surprise to us, as we had spent most of the preparation time on lower-grip surfaces. Would our hardware and software be up for the task in this unfamiliar grip regime?
 
-[!Map](iros24-map.jpg)
+![Map](iros24-map.jpg)
 *A bird's eye view of the map.*
 
 During the free practice, the team was quickly able to obtain the all-imporant tire parameters with our new on-track system identification procedure. The time saved here allowed us to exhaustively try different racelines and controllers. With our car's relatively low weight and center of gravity, we were able to use an optimized version of a minimum curvature racing line. We then settled on [MAP](https://arxiv.org/abs/2209.04346) controller that has served us well previously. Our experience allowed us to extract as much out of our hardware as possible, as we chased tenths of seconds.
