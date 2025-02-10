@@ -6,6 +6,7 @@ featured: true
 weight: 2
 description: Head of PR
 image: "img/default.jpg"
+draft: true
 ---
 
 Charlotte Ochsner is our PR manager

@@ -2,135 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://forzaeth.ch/team/tian_yi_lim/</loc>
-    <lastmod>2024-01-29T09:51:23+01:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/team/luca_tognoni/</loc>
-    <lastmod>2024-01-29T09:50:04+01:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/cars/nuc1/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/team/neil_reichlin_2/</loc>
-    <lastmod>2024-08-27T11:04:51+01:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/team/nadine_imholz/</loc>
-    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/team/benedict_hildisch/</loc>
-    <lastmod>2024-01-29T11:05:33+01:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/cars/nuc2/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/team/nicolas_baumann/</loc>
-    <lastmod>2024-01-29T11:10:55+01:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/team/edoardo_ghignone/</loc>
-    <lastmod>2024-01-29T11:10:52+01:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/cars/nuc3/</loc>
-    <lastmod>2020-01-28T14:07:07+01:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/team/maxime_mobayed/</loc>
-    <lastmod>2024-02-18T11:07:03+01:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/team/mahmoud_el_minawi/</loc>
-    <lastmod>2024-02-18T11:06:31+01:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/team/neil_reichlin/</loc>
+    <loc>http://localhost:1313/team/neil_reichlin/</loc>
     <lastmod>2024-02-18T11:04:51+01:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/team/pascal_ernst/</loc>
-    <lastmod>2024-02-18T11:04:24+01:00</lastmod>
+    <loc>http://localhost:1313/team/nicolas_baumann/</loc>
+    <lastmod>2024-01-29T11:10:55+01:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/team/luca_tognoni2/</loc>
-    <lastmod>2024-01-18T11:18:25+01:00</lastmod>
+    <loc>http://localhost:1313/team/edoardo_ghignone/</loc>
+    <lastmod>2024-01-29T11:10:52+01:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/</loc>
-    <lastmod>2024-08-27T11:04:51+01:00</lastmod>
+    <loc>http://localhost:1313/team/luca_schwarzenbach/</loc>
+    <lastmod>2024-01-29T11:10:52+01:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/tags/index/</loc>
-    <lastmod>2024-08-27T11:04:51+01:00</lastmod>
+    <loc>http://localhost:1313/team/luca_tognoni/</loc>
+    <lastmod>2024-01-29T09:50:04+01:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/tags/</loc>
-    <lastmod>2024-08-27T11:04:51+01:00</lastmod>
+    <loc>http://localhost:1313/cars/nuc1/</loc>
+    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/team/</loc>
-    <lastmod>2024-08-27T11:04:51+01:00</lastmod>
+    <loc>http://localhost:1313/cars/nuc2/</loc>
+    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/school_presentation/</loc>
+    <loc>http://localhost:1313/team/nadine_imholz/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cars/nuc3/</loc>
+    <lastmod>2020-01-28T14:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cars/nuc5/</loc>
+    <lastmod>2024-06-23T12:33:45+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cars/nuc6/</loc>
+    <lastmod>2024-06-23T12:33:45+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cars/nuc7/</loc>
+    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cdc_24/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/index/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/race/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/iros_24/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/school_presentation/</loc>
     <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/</loc>
-    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/categories/</loc>
+    <loc>http://localhost:1313/blog/icra_24/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/icra_24/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/categories/race/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://forzaeth.ch/blog/full_system_paper/</loc>
+    <loc>http://localhost:1313/blog/full_system_paper/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/categories/papers/</loc>
+    <loc>http://localhost:1313/categories/papers/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/sponsors/pbl/</loc>
+    <loc>http://localhost:1313/team/</loc>
+    <lastmod>2024-02-18T11:07:03+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sponsors/pbl/</loc>
     <lastmod>2024-02-16T15:47:26+01:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/sponsors/</loc>
+    <loc>http://localhost:1313/sponsors/</loc>
     <lastmod>2024-02-16T15:42:33+01:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/categories/indy-autonomous-challenge/</loc>
+    <loc>http://localhost:1313/categories/indy-autonomous-challenge/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/iac_sim_24/</loc>
+    <loc>http://localhost:1313/blog/iac_sim_24/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/categories/perception/</loc>
+    <loc>http://localhost:1313/categories/perception/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/synpf_paper/</loc>
+    <loc>http://localhost:1313/blog/synpf_paper/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/lidar_robust_paper/</loc>
+    <loc>http://localhost:1313/blog/lidar_robust_paper/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/categories/sensors/</loc>
+    <loc>http://localhost:1313/categories/sensors/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/scientifica/</loc>
+    <loc>http://localhost:1313/blog/scientifica/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/icra_23/</loc>
+    <loc>http://localhost:1313/blog/icra_23/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/categories/control/</loc>
+    <loc>http://localhost:1313/categories/control/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/map_paper/</loc>
+    <loc>http://localhost:1313/blog/map_paper/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/tc_driver/</loc>
+    <loc>http://localhost:1313/blog/tc_driver/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/sponsors/your_logo_here/</loc>
+    <loc>http://localhost:1313/sponsors/your_logo_here/</loc>
     <lastmod>2023-02-16T15:54:01+01:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/germany_22/</loc>
+    <loc>http://localhost:1313/blog/germany_22/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/blog/icra_22/</loc>
+    <loc>http://localhost:1313/blog/icra_22/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://forzaeth.ch/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url>
 </urlset>

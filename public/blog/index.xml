@@ -2,95 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ForzaETH</title>
-    <link>https://forzaeth.ch/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Posts on ForzaETH</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://forzaeth.ch/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDC 2024 F1TENTH GP</title>
+      <link>http://localhost:1313/blog/cdc_24/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/cdc_24/</guid>
+      <description>&lt;p&gt;We wrapped up 2024 with an exciting race at the The Roboracer Foundation 22nd F1TENTH Autonomous Grand Prix at CDC24 in Milano.&lt;/p&gt;&#xA;&lt;p&gt;Our primary objective was to test our reinforcement learning (RL) controller, which presented unique challenges. The track&amp;rsquo;s rapidly changing grip conditions, caused by dust accumulation, complicated our policy training. Adapting to the intricate tire-floor dynamics proved difficult, making it challenging to outperform our existing MAP controller.&lt;/p&gt;&#xA;&lt;p&gt;The competition wasn&amp;rsquo;t without its dramatic moments. A collision with another car resulted in significant hardware damage, breaking the servo and damaging the driveshaft. However, our team&amp;rsquo;s resilience shined through as we performed an intensive overnight repair, bringing the car back to racing condition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IROS 2024 F1TENTH GP</title>
+      <link>http://localhost:1313/blog/iros_24/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/iros_24/</guid>
+      <description>&lt;p&gt;The ForzaETH race team once again raced at the &lt;a href=&#34;https://iros2024-race.f1tenth.org/&#34;&gt;&lt;em&gt;21st F1TENTH Autonomous Grand Prix&lt;/em&gt;&lt;/a&gt; at &lt;a href=&#34;https://iros2024-abudhabi.org/&#34;&gt;IROS 2024&lt;/a&gt; in Abu Dhabi, UAE. Following our 3rd place finish in Japan, the team worked hard to try to reclaim the title.&lt;/p&gt;&#xA;&lt;p&gt;The floor surface at IROS proved to be extremely grippy carpet. While the track area was smaller than at previous competitions, the track layout was technical, with sweeping corners, a hairpin, and chicanes. By our estimates, this would provide more than twice the lateral grip than we faced in Japan. This was a surprise to us, as we had spent most of the preparation time on lower-grip surfaces. Would our hardware and software be up for the task in this unfamiliar grip regime?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ForzaETH inspiring the next generation of engineers</title>
-      <link>https://forzaeth.ch/blog/school_presentation/</link>
+      <link>http://localhost:1313/blog/school_presentation/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/school_presentation/</guid>
-      <description>Presentation at the Kantonsschule Zürich Nord ForzaETH had the opportunity to present our project to the students of the Kantonsschule Zürich Nord. Led by team members Luca, Charlotte, and Tian Yi, the presentation aimed to spark interest in engineering and autonomous technology among high school students. We discussed everything from the basic principles of our racing algorithms to the intricate details of our competition experiences.&#xA;We also had the opportunity to showcase a race between two of our race cars, which captivated the audience and demonstrated the complexity and excitement of autonomous racing.</description>
+      <guid>http://localhost:1313/blog/school_presentation/</guid>
+      <description>&lt;h2 id=&#34;presentation-at-the-kantonsschule-zürich-nord&#34;&gt;Presentation at the Kantonsschule Zürich Nord&lt;/h2&gt;&#xA;&lt;p&gt;ForzaETH had the opportunity to present our project to the students of the Kantonsschule Zürich Nord. Led by team members Luca, Charlotte, and Tian Yi, the presentation aimed to spark interest in engineering and autonomous technology among high school students. We discussed everything from the basic principles of our racing algorithms to the intricate details of our competition experiences.&lt;/p&gt;&#xA;&lt;p&gt;We also had the opportunity to showcase a race between two of our race cars, which captivated the audience and demonstrated the complexity and excitement of autonomous racing. Their reactions reaffirmed our belief in the importance of outreach. It&amp;rsquo;s clear that events like these can ignite a passion for engineering in the next generation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ICRA 2024 F1TENTH GP</title>
-      <link>https://forzaeth.ch/blog/icra_24/</link>
+      <link>http://localhost:1313/blog/icra_24/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/icra_24/</guid>
-      <description>The ForzaETH race team participated in the 15th F1TENTH Autonomous Racing Competition at the International Conference on Robotics and Automation in Yokohama, Japan. Our team, consisting of five students with diverse expertise in robotics, spent several months preparing our cars and rehearsing racing procedures. For the first time, the race team was entirely student-led and consisted of bachelor and master students.&#xA;Upon arriving in Japan, we immediately began training to optimize the tuning process.</description>
+      <guid>http://localhost:1313/blog/icra_24/</guid>
+      <description>&lt;p&gt;The ForzaETH race team participated in the &lt;em&gt;15th F1TENTH Autonomous Racing Competition&lt;/em&gt; at the International Conference on Robotics and Automation in Yokohama, Japan. Our team, consisting of five students with diverse expertise in robotics, spent several months preparing our cars and rehearsing racing procedures. For the first time, the race team was entirely student-led and consisted of bachelor and master students.&lt;/p&gt;&#xA;&lt;p&gt;Upon arriving in Japan, we immediately began training to optimize the tuning process. However, issues with the internet connection made the process considerably harder as live telemetry from the car was unavailable. Despite this setback, our familiarity with the car allowed us to achieve impressive lap times. During the time-trials phase, we qualified in 3rd place out of 18 teams from around the world, positioning us well for the head-to-head phase of the tournament.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source Race Stack and Full System Paper</title>
-      <link>https://forzaeth.ch/blog/full_system_paper/</link>
+      <link>http://localhost:1313/blog/full_system_paper/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/full_system_paper/</guid>
-      <description>Introducing a new era of 1:10 scaled autonomous racing:&#xA;We are thrilled to unveil the open-sourcing of the award-winning ForzaETH Race Stack. Showcased across numerous international F1TENTH races and securing 1st place at ICRA23, the ForzaETH Race Stack elevates the state-of-the-art, enabling new possibilities in scaled head-to-head autonomous racing.&#xA;Accompanying the open-sourcing, a paper titled &amp;ldquo;ForzaETH Race Stack - Scaled Autonomous Head-to-Head Racing on Fully Commercial off-the-Shelf Hardware&amp;rdquo; is available on arxiv, detailing the system&amp;rsquo;s architecture, algorithms, and performance benchmarks.</description>
+      <guid>http://localhost:1313/blog/full_system_paper/</guid>
+      <description>&lt;p&gt;Introducing a new era of 1:10 scaled autonomous racing:&lt;/p&gt;&#xA;&lt;p&gt;We are thrilled to unveil the open-sourcing of the award-winning ForzaETH Race Stack. Showcased across numerous international F1TENTH races and securing 1st place at ICRA23, the ForzaETH Race Stack elevates the state-of-the-art, enabling new possibilities in scaled head-to-head autonomous racing.&lt;/p&gt;&#xA;&lt;p&gt;Accompanying the open-sourcing, a paper titled &amp;ldquo;ForzaETH Race Stack - Scaled Autonomous Head-to-Head Racing on Fully Commercial off-the-Shelf Hardware&amp;rdquo; is available on arxiv, detailing the system&amp;rsquo;s architecture, algorithms, and performance benchmarks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Indy Autonomous Challenge SIM Race</title>
-      <link>https://forzaeth.ch/blog/iac_sim_24/</link>
+      <link>http://localhost:1313/blog/iac_sim_24/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/iac_sim_24/</guid>
-      <description>A team comprised of five master students secured a prestigious second place in the Indy autonomous race simulation at the tech event CES in Las Vegas. This marked a first step in extending the ForzaETH Race Stack to full-scale autonomous racing. ForzaETH’s team was only surpassed by the experienced PoliMOVE Autonomous Racing Team from Politecnico di Milano. An exceptional and very promising achievement for the future.&#xA;Article on the ETH D-ITET Website</description>
+      <guid>http://localhost:1313/blog/iac_sim_24/</guid>
+      <description>&lt;p&gt;A team comprised of five master students secured a prestigious second place in the Indy autonomous race simulation at the tech event CES in Las Vegas. This marked a first step in extending the ForzaETH Race Stack to full-scale autonomous racing.&#xA;ForzaETH’s team was only surpassed by the experienced PoliMOVE Autonomous Racing Team from Politecnico di Milano. An exceptional and very promising achievement for the future.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ee.ethz.ch/de/news-und-veranstaltungen/d-itet-news-channel/2024/01/silver-medal-for-pbls-autonomous-racing-team-forzaeth-at-ces-in-las-vegas.html&#34;&gt;Article on the ETH D-ITET Website&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Robustness Evaluation of Localization Techniques for Autonomous Racing</title>
-      <link>https://forzaeth.ch/blog/synpf_paper/</link>
+      <link>http://localhost:1313/blog/synpf_paper/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/synpf_paper/</guid>
-      <description>SynPF Paper Abstract This work introduces SynPF, an MCL-based algorithm tailored for high-speed racing environments. Benchmarked against Cartographer, a state-of-the-art pose-graph SLAM algorithm, SynPF leverages synergies from previous particle-filtering methods and synthesizes them for the high-performance racing domain. Our extensive in-field evaluations reveal that while Cartographer excels under nominal conditions, it struggles when subjected to wheel-slip—a common phenomenon in a racing scenario due to varying grip levels and aggressive driving behaviour.</description>
+      <guid>http://localhost:1313/blog/synpf_paper/</guid>
+      <description>&lt;h1 id=&#34;synpf-paper&#34;&gt;SynPF Paper&lt;/h1&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;This work introduces SynPF, an MCL-based algorithm tailored for high-speed racing environments. Benchmarked against Cartographer, a state-of-the-art pose-graph SLAM algorithm, SynPF leverages synergies from previous particle-filtering methods and synthesizes them for the high-performance racing domain. Our extensive in-field evaluations reveal that while Cartographer excels under nominal conditions, it struggles when subjected to wheel-slip—a common phenomenon in a racing scenario due to varying grip levels and aggressive driving behaviour. Conversely, SynPF demonstrates robustness in these challenging conditions and a low-latency computation time of 1.25 ms on on-board computers without a GPU. Using the F1TENTH platform, a 1:10&#xA;scaled autonomous racing vehicle, this work not only highlights the vulnerabilities of existing algorithms in high-speed scenarios, tested up until 7.6 m s−1, but also emphasizes the potential of SynPF as a viable  alternative, especially in deteriorating odometry conditions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Assessing the Robustness of LiDAR, Radar and Depth Cameras Against Ill-Reflecting Surfaces in Autonomous Vehicles: An Experimental Study</title>
-      <link>https://forzaeth.ch/blog/lidar_robust_paper/</link>
+      <link>http://localhost:1313/blog/lidar_robust_paper/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/lidar_robust_paper/</guid>
-      <description>Abstract Range-measuring sensors play a critical role in autonomous driving systems. While LiDAR technology has been dominant, its vulnerability to adverse weather conditions is well-documented. This paper focuses on secondary adverse conditions and the implications of ill-reflective surfaces on range measurement sensors. We assess the influence of this condition on the three primary ranging modalities used in autonomous mobile robotics: LiDAR, RADAR, and Depth-Camera. Based on accurate experimental evaluation the papers findings reveal that under ill-reflectivity, LiDAR ranging performance drops significantly to 33% of its nominal operating conditions, whereas RADAR and Depth-Cameras maintain up to 100% of their nominal distance ranging capabilities.</description>
+      <guid>http://localhost:1313/blog/lidar_robust_paper/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Range-measuring sensors play a critical role in autonomous driving systems. While LiDAR technology has been dominant, its vulnerability to adverse weather conditions is well-documented. This paper focuses on secondary adverse conditions and the implications of ill-reflective surfaces on range measurement sensors. We assess the influence of this condition on the three primary ranging modalities used in autonomous mobile robotics: LiDAR, RADAR, and Depth-Camera. Based on accurate experimental evaluation the papers findings reveal that under ill-reflectivity, LiDAR ranging performance drops significantly to 33% of its nominal operating conditions, whereas RADAR and Depth-Cameras maintain up to 100% of their nominal distance ranging capabilities. Additionally, we demonstrate on a 1:10 scaled autonomous racecar how ill-reflectivity adversely impacts downstream robotics tasks, highlighting the necessity for robust range sensing in autonomous driving.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scientifica 2023</title>
-      <link>https://forzaeth.ch/blog/scientifica/</link>
+      <link>http://localhost:1313/blog/scientifica/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/scientifica/</guid>
-      <description>Scientifica 2023 We showcased our autonomous racecars at Scientifica, Switzerland&amp;rsquo;s largest science festival. Alongside numerous other researchers from ETH Zürich and the University of Zürich, we presented our project, to over 20&#39;000 visitors.&#xA;(Photo Credits to: Scientifica/Alessandro Della Bella)</description>
+      <guid>http://localhost:1313/blog/scientifica/</guid>
+      <description>&lt;h2 id=&#34;scientifica-2023&#34;&gt;Scientifica 2023&lt;/h2&gt;&#xA;&lt;p&gt;We showcased our autonomous racecars at Scientifica, Switzerland&amp;rsquo;s largest science festival. Alongside numerous other researchers from ETH Zürich and the University of Zürich, we presented our project, to over 20&#39;000 visitors.&lt;/p&gt;&#xA;&lt;p&gt;(Photo Credits to: Scientifica/Alessandro Della Bella)&lt;/p&gt;</description>
     </item>
     <item>
       <title>ICRA 2023 F1TENTH GP</title>
-      <link>https://forzaeth.ch/blog/icra_23/</link>
+      <link>http://localhost:1313/blog/icra_23/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/icra_23/</guid>
-      <description>A dedicated team of six students devoted their efforts to enhancing the autonomous racing stack through their bachelor, semester, and master theses. Their research led to significant improvements in the localization, obstacle detection, and control aspects of our autonomous racing cars.&#xA;Following a semester filled with rigorous work and preparation, we eagerly entered the F1TENTH Grand Prix at the International Conference on Robotics and Automation, where 22 teams from around the world vied for the prestigious title.</description>
+      <guid>http://localhost:1313/blog/icra_23/</guid>
+      <description>&lt;p&gt;A dedicated team of six students devoted their efforts to enhancing the autonomous racing stack through their bachelor, semester, and master theses. Their research led to significant improvements in the localization, obstacle detection, and control aspects of our autonomous racing cars.&lt;/p&gt;&#xA;&lt;p&gt;Following a semester filled with rigorous work and preparation, we eagerly entered the F1TENTH Grand Prix at the International Conference on Robotics and Automation, where 22 teams from around the world vied for the prestigious title.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Model- and Acceleration-based Pursuit (MAP) Controller for High-Performance Autonomous Racing</title>
-      <link>https://forzaeth.ch/blog/map_paper/</link>
+      <link>http://localhost:1313/blog/map_paper/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/map_paper/</guid>
-      <description>MAP Paper A big reason for the teams outstanding performance at the F1TENTH Grand Prix is our Path tracking controller. Developed by thesis students for our first Race at ICRA 2022, the Model- and Acceleration-based Pursuit controller allows us to track our racing line at speeds close to the limit of friction. The paper was published and presented at the International Conference on Robotics and Automation 2023 in London.&#xA;Abstract Autonomous racing is a research field gaining large popularity, as it pushes autonomous driving algorithms to their limits and serves as a catalyst for general autonomous driving.</description>
+      <guid>http://localhost:1313/blog/map_paper/</guid>
+      <description>&lt;h1 id=&#34;map-paper&#34;&gt;MAP Paper&lt;/h1&gt;&#xA;&lt;p&gt;A big reason for the teams outstanding performance at the F1TENTH Grand Prix is our Path tracking controller. Developed by thesis students for our first Race at ICRA 2022, the Model- and Acceleration-based Pursuit controller allows us to track our racing line at speeds close to the limit of friction. The paper was published and presented at the International Conference on Robotics and Automation 2023 in London.&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Autonomous racing is a research field gaining large popularity, as it pushes autonomous driving algorithms to their limits and serves as a catalyst for general autonomous driving. For scaled autonomous racing platforms, the computational constraint and complexity often limit the use of Model Predictive Control (MPC). As a consequence, geometric controllers are the most frequently deployed controllers. They prove to be performant while yielding implementation and operational simplicity. Yet, they inherently lack the incorporation of model dynamics, thus limiting the race car to a velocity domain where tire slip can be neglected. This paper presents Model- and Acceleration-based Pursuit (MAP) a high-performance model-based trajectory tracking algorithm that preserves the simplicity of geometric approaches while leveraging tire dynamics. The proposed algorithm allows accurate tracking of a trajectory at unprecedented velocities compared to State-of-the-Art (SotA) geometric controllers. The MAP controller is experimentally validated and outperforms the reference geometric controller four-fold in terms of lateral tracking error, yielding a tracking error of 0.055m at tested speeds up to 11m/s.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TC-Driver: A Trajectory Conditioned Reinforcement Learning Approach to Zero-Shot Autonomous Racing</title>
-      <link>https://forzaeth.ch/blog/tc_driver/</link>
+      <link>http://localhost:1313/blog/tc_driver/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/tc_driver/</guid>
-      <description>TC-Driver Abstract Autonomous racing is becoming popular for academic and industry researchers as a test for general autonomous driving by pushing perception, planning, and control algorithms to their limits. While traditional control methods such as model predictive control are capable of generating an optimal control sequence at the edge of the vehicles’ physical controllability, these methods are sensitive to the accuracy of the modeling parameters, such as tire modeling coefficients. As model mismatch is inevitable in reality, the heuristic nature of Reinforcement Learning (RL) offers a viable approach to modeling robustness.</description>
+      <guid>http://localhost:1313/blog/tc_driver/</guid>
+      <description>&lt;h1 id=&#34;tc-driver&#34;&gt;TC-Driver&lt;/h1&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Autonomous racing is becoming popular for academic and industry researchers as a test&#xA;for general autonomous driving by pushing perception, planning, and control algorithms to their&#xA;limits. While traditional control methods such as model predictive control are capable of generating&#xA;an optimal control sequence at the edge of the vehicles’ physical controllability, these methods are&#xA;sensitive to the accuracy of the modeling parameters, such as tire modeling coefficients. As model&#xA;mismatch is inevitable in reality, the heuristic nature of Reinforcement Learning (RL) offers a viable&#xA;approach to modeling robustness. This paper presents TC-Driver, an RL approach for robust control&#xA;in autonomous racing. In particular, the TC-Driver agent is conditioned by a trajectory generated&#xA;by any arbitrary traditional high-level trajectory planner. The proposed TC-Driver architecture&#xA;addresses the tire parameter modeling inaccuracies by exploiting the learning capabilities of RL while&#xA;utilizing the reliability of traditional planning methods in a hybrid fashion. We train the agent under&#xA;varying tire conditions, allowing it to generalize to different model parameters, aiming to increase&#xA;the racing capabilities of the system in practice. Experimental results demonstrate that the proposed&#xA;hybrid RL architecture of the TC-Driver improves the generalization robustness of autonomous&#xA;racing agents when compared to a previous state-of-the-art end-to-end-based architecture. Namely,&#xA;the proposed controller yields a 29-fold improvement in crash ratio when facing model mismatch&#xA;and can zero-shot transfer its behavior on unseen tracks which present completely new features,&#xA;while the end-to-end baseline fails. When deployed on a physical system, the proposed architecture&#xA;demonstrates zero-shot Sim2Real capabilities that outperform end-to-end agents 10-fold in terms&#xA;of crash ratio while exhibiting similar driving characteristics in reality as in simulation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Germany Race</title>
-      <link>https://forzaeth.ch/blog/germany_22/</link>
+      <link>http://localhost:1313/blog/germany_22/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/germany_22/</guid>
-      <description>On August 20 and 21, 2022, the ForzaETH team participated in its second race at the F1TENTH Grand Prix held at the Lausitzring Eurospeedway racetrack. Nine teams were in contention for victory during this tournament.&#xA;During the initial day of the competition, the team demonstrated exceptional performance by securing the top position in the qualifying phase. They achieved this feat by completing the most consecutive laps in five minutes and recording the fastest lap time.</description>
+      <guid>http://localhost:1313/blog/germany_22/</guid>
+      <description>&lt;p&gt;On August 20 and 21, 2022, the ForzaETH team participated in its second race at the F1TENTH Grand Prix held at the Lausitzring Eurospeedway racetrack. Nine teams were in contention for victory during this tournament.&lt;/p&gt;&#xA;&lt;p&gt;During the initial day of the competition, the team demonstrated exceptional performance by securing the top position in the qualifying phase. They achieved this feat by completing the most consecutive laps in five minutes and recording the fastest lap time. This outstanding performance granted them the coveted pole position for the head-to-head competition scheduled for the second day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ICRA 2022</title>
-      <link>https://forzaeth.ch/blog/icra_22/</link>
+      <link>http://localhost:1313/blog/icra_22/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://forzaeth.ch/blog/icra_22/</guid>
-      <description>A group of students, consisting of three undergraduates and one master&amp;rsquo;s student, formed the inaugural Race Team. Together, they dedicated themselves to creating advanced path planning algorithms, obstacle detection systems, and velocity and path tracking controllers. Following a semester of relentless effort, the team entered its first competition — the F1TENTH Grand Prix held at the International Conference on Robotics and Automation (ICRA) in Philadelphia. The event attracted 20 teams from around the globe, all fighting for the win.</description>
+      <guid>http://localhost:1313/blog/icra_22/</guid>
+      <description>&lt;p&gt;A group of students, consisting of three undergraduates and one master&amp;rsquo;s student, formed the inaugural Race Team. Together, they dedicated themselves to creating advanced path planning algorithms, obstacle detection systems, and velocity and path tracking controllers. Following a semester of relentless effort, the team entered its first competition — the F1TENTH Grand Prix held at the International Conference on Robotics and Automation (ICRA) in Philadelphia. The event attracted 20 teams from around the globe, all fighting for the win. Against stiff competition, the ForzaETH team delivered an outstanding performance, securing an impressive 4th place finish and with that performing the best out of all the newbie teams. This success motivates further develop our racing algorithms and go for the win at the next F1TENTH Race.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

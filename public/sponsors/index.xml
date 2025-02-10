@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sponsors on ForzaETH</title>
-    <link>https://forzaeth.ch/sponsors/</link>
+    <link>http://localhost:1313/sponsors/</link>
     <description>Recent content in Sponsors on ForzaETH</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 16 Feb 2024 15:47:26 +0100</lastBuildDate>
-    <atom:link href="https://forzaeth.ch/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sponsors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PBL</title>
-      <link>https://forzaeth.ch/sponsors/pbl/</link>
+      <link>http://localhost:1313/sponsors/pbl/</link>
       <pubDate>Fri, 16 Feb 2024 15:47:26 +0100</pubDate>
-      <guid>https://forzaeth.ch/sponsors/pbl/</guid>
+      <guid>http://localhost:1313/sponsors/pbl/</guid>
       <description></description>
     </item>
     <item>
       <title>Your Logo here</title>
-      <link>https://forzaeth.ch/sponsors/your_logo_here/</link>
+      <link>http://localhost:1313/sponsors/your_logo_here/</link>
       <pubDate>Thu, 16 Feb 2023 15:54:01 +0100</pubDate>
-      <guid>https://forzaeth.ch/sponsors/your_logo_here/</guid>
+      <guid>http://localhost:1313/sponsors/your_logo_here/</guid>
       <description></description>
     </item>
   </channel>

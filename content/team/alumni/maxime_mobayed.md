@@ -5,4 +5,5 @@ draft: false
 image: "img/default.jpg"
 description: "Thesis Student: Overhauling mechanical plattform and sensor integration"
 weight: 4
+draft: true
 ---
