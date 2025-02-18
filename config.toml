@@ -39,11 +39,11 @@ enableRobotsTXT = true
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "ForzaETH is the F1TENTH at the Center for Project Based Learning at ETH Zürich"
-    meta_og_title = "ForzaETH"
+    meta_description = "ForzaETH is the F1TENTH Team of Autonomous Racing Zürich"
+    meta_og_title = "ForzaETH by Autonomous Racing Zürich"
     meta_og_type = "website"
     meta_og_url = "https://forzaeth.ch"
-    meta_og_description = "ForzaETH is the F1TENTH at the Center for Project Based Learning at ETH Zürich"
+    meta_og_description = "ForzaETH is the F1TENTH Team of Autonomous Racing Zürich"
 
 
 [menu]
