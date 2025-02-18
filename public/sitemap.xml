@@ -78,7 +78,7 @@
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/team/</loc>
-    <lastmod>2024-02-18T11:07:03+01:00</lastmod>
+    <lastmod>2024-02-18T11:04:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sponsors/pbl/</loc>
     <lastmod>2024-02-16T15:47:26+01:00</lastmod>
@@ -130,6 +130,8 @@
   </url><url>
     <loc>http://localhost:1313/blog/icra_22/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/statutes/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url>

@@ -1,0 +1,7 @@
+Here you can find the Statutes of the Association (Verein) Autonomous Racing Zürich:
+
+
+{{< download "Statuten_ARZH.pdf" "Download Official Statutes (German)" >}}
+<br>
+
+{{< download "Autonomous_Racing_Zürich_Statues__english.pdf" "Download English Translation" >}}
