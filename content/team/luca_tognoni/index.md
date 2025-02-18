@@ -9,4 +9,4 @@ image: "img/default.jpg"
 ---
 
 Download the CV here:
-{{< download "CV.pdf">}}
+{{< download "CV.pdf" "CV Luca Tognoni" >}}
