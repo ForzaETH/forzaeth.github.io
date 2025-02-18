@@ -90,7 +90,21 @@ enableRobotsTXT = true
       weight = 2
 
   [[menu.footer]]
-    name = "Github"
+    name = "Instagram"
     url = "https://instagram.com/forzaeth/"
     pre = "Instagram"
+      weight = 3
+
+
+  [[menu.footer]]
+    name = "Linkedin"
+    url = "https://www.linkedin.com/company/forzaeth-arzh/"
+    pre = "Linkedin"
+      weight = 3
+
+
+  [[menu.footer]]
+    name = "GitHub"
+    url = "https://https://github.com/ForzaETH"
+    pre = "GitHub"
       weight = 3
