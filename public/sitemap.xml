@@ -26,6 +26,15 @@
     <loc>http://localhost:1313/cars/nuc2/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/team/diego_garcia/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/jari_stadler/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/mattia_dal_bo/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/team/nadine_imholz/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
@@ -35,19 +44,46 @@
     <loc>http://localhost:1313/cars/nuc5/</loc>
     <lastmod>2024-06-23T12:33:45+10:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/team/christopher_bennewitz/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/dominik_isler/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/jari_stadler2/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/joel_sigert/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/mattia_dal_bo2/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/paviththiren_sivasothilingam/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/tony_ngo/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cars/nuc6/</loc>
     <lastmod>2024-06-23T12:33:45+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cars/nuc7/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/sponsors/amag/</loc>
+    <lastmod>2025-03-16T15:47:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-16T15:47:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sponsors/nccr_automation/</loc>
+    <lastmod>2025-03-16T15:47:26+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cdc_24/</loc>
-    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/index/</loc>
@@ -122,8 +158,8 @@
     <loc>http://localhost:1313/blog/tc_driver/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sponsors/your_logo_here/</loc>
-    <lastmod>2023-02-16T15:54:01+01:00</lastmod>
+    <loc>http://localhost:1313/sponsors/hobbyshop_haessig/</loc>
+    <lastmod>2023-02-16T15:47:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/germany_22/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>

@@ -6,7 +6,7 @@
     <description>Recent content on ForzaETH</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 15:47:26 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neil Reichlin</title>
@@ -65,6 +65,27 @@
       <description>&lt;p&gt;NUC2 is now the oldest car to date that still runs. It is kinda broken.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Diego Garcia</title>
+      <link>http://localhost:1313/team/diego_garcia/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/diego_garcia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jari Stadler</title>
+      <link>http://localhost:1313/team/jari_stadler/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/jari_stadler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mattia Dal Bò</title>
+      <link>http://localhost:1313/team/mattia_dal_bo/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/mattia_dal_bo/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Nadine Imholz</title>
       <link>http://localhost:1313/team/nadine_imholz/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
@@ -86,6 +107,55 @@
       <description>&lt;p&gt;NUC5 has the strongest CPU (i7) and also is the lightest. Coupled with a &lt;a href=&#34;https://www.hobbywing.com/en/products/ezrun-3652--3665-sd-g3261.html&#34;&gt;Hobbywing 3652 3100kV&lt;/a&gt; sensored BLDC, it is our fastest car and the one we send to get championship glory.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Christopher Bennewitz</title>
+      <link>http://localhost:1313/team/christopher_bennewitz/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/christopher_bennewitz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dominik Isler</title>
+      <link>http://localhost:1313/team/dominik_isler/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/dominik_isler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jari Stadler</title>
+      <link>http://localhost:1313/team/jari_stadler2/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/jari_stadler2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Joel Siegert</title>
+      <link>http://localhost:1313/team/joel_sigert/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/joel_sigert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mattia Dal Bò</title>
+      <link>http://localhost:1313/team/mattia_dal_bo2/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/mattia_dal_bo2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paviththiren Sivasothilingam</title>
+      <link>http://localhost:1313/team/paviththiren_sivasothilingam/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/paviththiren_sivasothilingam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tony Ngo</title>
+      <link>http://localhost:1313/team/tony_ngo/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/tony_ngo/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>NUC6</title>
       <link>http://localhost:1313/cars/nuc6/</link>
       <pubDate>Sun, 23 Jun 2024 12:33:45 +1000</pubDate>
@@ -98,6 +168,20 @@
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       <guid>http://localhost:1313/cars/nuc7/</guid>
       <description>&lt;p&gt;NUC7 is weird, having a new NUC but not as performant as NUC5. It&amp;rsquo;s our backup car.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>amag</title>
+      <link>http://localhost:1313/sponsors/amag/</link>
+      <pubDate>Sun, 16 Mar 2025 15:47:26 +0100</pubDate>
+      <guid>http://localhost:1313/sponsors/amag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NCCR-Automation</title>
+      <link>http://localhost:1313/sponsors/nccr_automation/</link>
+      <pubDate>Sun, 16 Mar 2025 15:47:26 +0100</pubDate>
+      <guid>http://localhost:1313/sponsors/nccr_automation/</guid>
+      <description></description>
     </item>
     <item>
       <title>CDC 2024 F1TENTH GP</title>
@@ -198,10 +282,10 @@
       <description>&lt;h1 id=&#34;tc-driver&#34;&gt;TC-Driver&lt;/h1&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Autonomous racing is becoming popular for academic and industry researchers as a test&#xA;for general autonomous driving by pushing perception, planning, and control algorithms to their&#xA;limits. While traditional control methods such as model predictive control are capable of generating&#xA;an optimal control sequence at the edge of the vehicles’ physical controllability, these methods are&#xA;sensitive to the accuracy of the modeling parameters, such as tire modeling coefficients. As model&#xA;mismatch is inevitable in reality, the heuristic nature of Reinforcement Learning (RL) offers a viable&#xA;approach to modeling robustness. This paper presents TC-Driver, an RL approach for robust control&#xA;in autonomous racing. In particular, the TC-Driver agent is conditioned by a trajectory generated&#xA;by any arbitrary traditional high-level trajectory planner. The proposed TC-Driver architecture&#xA;addresses the tire parameter modeling inaccuracies by exploiting the learning capabilities of RL while&#xA;utilizing the reliability of traditional planning methods in a hybrid fashion. We train the agent under&#xA;varying tire conditions, allowing it to generalize to different model parameters, aiming to increase&#xA;the racing capabilities of the system in practice. Experimental results demonstrate that the proposed&#xA;hybrid RL architecture of the TC-Driver improves the generalization robustness of autonomous&#xA;racing agents when compared to a previous state-of-the-art end-to-end-based architecture. Namely,&#xA;the proposed controller yields a 29-fold improvement in crash ratio when facing model mismatch&#xA;and can zero-shot transfer its behavior on unseen tracks which present completely new features,&#xA;while the end-to-end baseline fails. When deployed on a physical system, the proposed architecture&#xA;demonstrates zero-shot Sim2Real capabilities that outperform end-to-end agents 10-fold in terms&#xA;of crash ratio while exhibiting similar driving characteristics in reality as in simulation.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Your Logo here</title>
-      <link>http://localhost:1313/sponsors/your_logo_here/</link>
-      <pubDate>Thu, 16 Feb 2023 15:54:01 +0100</pubDate>
-      <guid>http://localhost:1313/sponsors/your_logo_here/</guid>
+      <title>hobbyshop_haessig</title>
+      <link>http://localhost:1313/sponsors/hobbyshop_haessig/</link>
+      <pubDate>Thu, 16 Feb 2023 15:47:26 +0100</pubDate>
+      <guid>http://localhost:1313/sponsors/hobbyshop_haessig/</guid>
       <description></description>
     </item>
     <item>
