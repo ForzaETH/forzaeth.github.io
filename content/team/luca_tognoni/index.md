@@ -7,6 +7,3 @@ featured: true
 description: President
 image: "img/default.jpg"
 ---
-
-Download the CV here:
-{{< download "CV.pdf" "CV Luca Tognoni" >}}
