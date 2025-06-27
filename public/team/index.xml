@@ -2,129 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on ForzaETH</title>
-    <link>http://localhost:1313/team/</link>
+    <link>https://forzaeth.ch/team/</link>
     <description>Recent content in Team on ForzaETH</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 18 Feb 2024 11:04:51 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://forzaeth.ch/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neil Reichlin</title>
-      <link>http://localhost:1313/team/neil_reichlin/</link>
+      <link>https://forzaeth.ch/team/neil_reichlin/</link>
       <pubDate>Sun, 18 Feb 2024 11:04:51 +0100</pubDate>
-      <guid>http://localhost:1313/team/neil_reichlin/</guid>
+      <guid>https://forzaeth.ch/team/neil_reichlin/</guid>
       <description></description>
     </item>
     <item>
       <title>Michael Lötscher</title>
-      <link>http://localhost:1313/team/michael_lotscher/</link>
+      <link>https://forzaeth.ch/team/michael_lotscher/</link>
       <pubDate>Mon, 29 Jan 2024 11:10:55 +0100</pubDate>
-      <guid>http://localhost:1313/team/michael_lotscher/</guid>
+      <guid>https://forzaeth.ch/team/michael_lotscher/</guid>
       <description></description>
     </item>
     <item>
       <title>Nicolas Baumann</title>
-      <link>http://localhost:1313/team/nicolas_baumann/</link>
+      <link>https://forzaeth.ch/team/nicolas_baumann/</link>
       <pubDate>Mon, 29 Jan 2024 11:10:55 +0100</pubDate>
-      <guid>http://localhost:1313/team/nicolas_baumann/</guid>
+      <guid>https://forzaeth.ch/team/nicolas_baumann/</guid>
       <description></description>
     </item>
     <item>
       <title>Edoardo Ghignone</title>
-      <link>http://localhost:1313/team/edoardo_ghignone/</link>
+      <link>https://forzaeth.ch/team/edoardo_ghignone/</link>
       <pubDate>Mon, 29 Jan 2024 11:10:52 +0100</pubDate>
-      <guid>http://localhost:1313/team/edoardo_ghignone/</guid>
+      <guid>https://forzaeth.ch/team/edoardo_ghignone/</guid>
       <description></description>
     </item>
     <item>
       <title>Luca Schwarzenbach</title>
-      <link>http://localhost:1313/team/luca_schwarzenbach/</link>
+      <link>https://forzaeth.ch/team/luca_schwarzenbach/</link>
       <pubDate>Mon, 29 Jan 2024 11:10:52 +0100</pubDate>
-      <guid>http://localhost:1313/team/luca_schwarzenbach/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Luca Tognoni</title>
-      <link>http://localhost:1313/team/luca_tognoni/</link>
-      <pubDate>Mon, 29 Jan 2024 09:50:04 +0100</pubDate>
-      <guid>http://localhost:1313/team/luca_tognoni/</guid>
-      <description>&lt;p&gt;Download the CV here:&#xA;&lt;a href=&#34;CV.pdf&#34; download&gt;CV Luca Tognoni&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Diego Garcia</title>
-      <link>http://localhost:1313/team/diego_garcia/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/diego_garcia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jari Stadler</title>
-      <link>http://localhost:1313/team/jari_stadler/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/jari_stadler/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mattia Dal Bò</title>
-      <link>http://localhost:1313/team/mattia_dal_bo/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/mattia_dal_bo/</guid>
+      <guid>https://forzaeth.ch/team/luca_schwarzenbach/</guid>
       <description></description>
     </item>
     <item>
       <title>Nadine Imholz</title>
-      <link>http://localhost:1313/team/nadine_imholz/</link>
+      <link>https://forzaeth.ch/team/nadine_imholz_2/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/nadine_imholz/</guid>
+      <guid>https://forzaeth.ch/team/nadine_imholz_2/</guid>
       <description></description>
     </item>
     <item>
-      <title>Christopher Bennewitz</title>
-      <link>http://localhost:1313/team/christopher_bennewitz/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/christopher_bennewitz/</guid>
-      <description></description>
+      <title>Luca Tognoni</title>
+      <link>https://forzaeth.ch/team/luca_tognoni/</link>
+      <pubDate>Mon, 29 Jan 2024 09:50:04 +0100</pubDate>
+      <guid>https://forzaeth.ch/team/luca_tognoni/</guid>
+      <description>&lt;p&gt;Download the CV here:&#xA;&lt;a href=&#34;CV.pdf&#34; download&gt;CV Luca Tognoni&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dominik Isler</title>
-      <link>http://localhost:1313/team/dominik_isler/</link>
+      <title>Diego Garcia</title>
+      <link>https://forzaeth.ch/team/diego_garcia/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/dominik_isler/</guid>
+      <guid>https://forzaeth.ch/team/diego_garcia/</guid>
       <description></description>
     </item>
     <item>
       <title>Jari Stadler</title>
-      <link>http://localhost:1313/team/jari_stadler2/</link>
+      <link>https://forzaeth.ch/team/jari_stadler/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/jari_stadler2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Joel Siegert</title>
-      <link>http://localhost:1313/team/joel_sigert/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/joel_sigert/</guid>
+      <guid>https://forzaeth.ch/team/jari_stadler/</guid>
       <description></description>
     </item>
     <item>
       <title>Mattia Dal Bò</title>
-      <link>http://localhost:1313/team/mattia_dal_bo2/</link>
+      <link>https://forzaeth.ch/team/mattia_dal_bo/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/mattia_dal_bo2/</guid>
+      <guid>https://forzaeth.ch/team/mattia_dal_bo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nadine Imholz</title>
+      <link>https://forzaeth.ch/team/nadine_imholz/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>https://forzaeth.ch/team/nadine_imholz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Christopher Bennewitz</title>
+      <link>https://forzaeth.ch/team/christopher_bennewitz/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>https://forzaeth.ch/team/christopher_bennewitz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dominik Isler</title>
+      <link>https://forzaeth.ch/team/dominik_isler/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>https://forzaeth.ch/team/dominik_isler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jari Stadler</title>
+      <link>https://forzaeth.ch/team/jari_stadler2/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>https://forzaeth.ch/team/jari_stadler2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Joel Siegert</title>
+      <link>https://forzaeth.ch/team/joel_sigert/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>https://forzaeth.ch/team/joel_sigert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mattia Dal Bò</title>
+      <link>https://forzaeth.ch/team/mattia_dal_bo2/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>https://forzaeth.ch/team/mattia_dal_bo2/</guid>
       <description></description>
     </item>
     <item>
       <title>Paviththiren Sivasothilingam</title>
-      <link>http://localhost:1313/team/paviththiren_sivasothilingam/</link>
+      <link>https://forzaeth.ch/team/paviththiren_sivasothilingam/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/paviththiren_sivasothilingam/</guid>
+      <guid>https://forzaeth.ch/team/paviththiren_sivasothilingam/</guid>
       <description></description>
     </item>
     <item>
       <title>Tony Ngo</title>
-      <link>http://localhost:1313/team/tony_ngo/</link>
+      <link>https://forzaeth.ch/team/tony_ngo/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/tony_ngo/</guid>
+      <guid>https://forzaeth.ch/team/tony_ngo/</guid>
       <description></description>
     </item>
   </channel>
