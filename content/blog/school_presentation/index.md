@@ -1,9 +1,9 @@
 +++
 author = "Luca Tognoni"
 title = "ForzaETH inspiring the next generation of engineers"
-title_short = "shool_presentation"
+title_short = "school_presentation"
 date = "2024-06-27"
-image = "blog/shool_presentation/cover.jpg"
+image = "blog/school_presentation/cover.jpg"
 tags = [
 ]
 series = ["Exhibitions"]
