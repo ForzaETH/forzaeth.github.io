@@ -1,8 +1,8 @@
 ---
-title: "Mattia Dal Bò"
+title: "Diego Garcia"
 date: 2024-01-29T11:08:07+01:00
 draft: false
 image: "img/default.jpg"
-weight: 4
-description: Bachelor Thesis
+weight: 5
+description: Racing Engineer
 ---

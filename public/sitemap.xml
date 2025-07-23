@@ -29,13 +29,16 @@
     <loc>http://localhost:1313/cars/nuc2/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/diego_garcia/</loc>
+    <loc>http://localhost:1313/team/alumni/diego_garcia/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/jari_stadler/</loc>
+    <loc>http://localhost:1313/team/alumni/jari_stadler/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/mattia_dal_bo/</loc>
+    <loc>http://localhost:1313/team/alumni/mattia_dal_bo/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/michael_lotscher_2/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/team/nadine_imholz/</loc>
@@ -47,25 +50,25 @@
     <loc>http://localhost:1313/cars/nuc5/</loc>
     <lastmod>2024-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/christopher_bennewitz/</loc>
+    <loc>http://localhost:1313/team/alumni/christopher_bennewitz/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/dominik_isler/</loc>
+    <loc>http://localhost:1313/team/alumni/dominik_isler/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/jari_stadler2/</loc>
+    <loc>http://localhost:1313/team/alumni/jari_stadler2/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/team/joel_sigert/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/mattia_dal_bo2/</loc>
+    <loc>http://localhost:1313/team/alumni/mattia_dal_bo2/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/paviththiren_sivasothilingam/</loc>
+    <loc>http://localhost:1313/team/alumni/paviththiren_sivasothilingam/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/tony_ngo/</loc>
+    <loc>http://localhost:1313/team/alumni/tony_ngo/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cars/nuc6/</loc>
@@ -94,6 +97,9 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/icra_25/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sponsors/amag/</loc>
     <lastmod>2025-03-16T15:47:26+01:00</lastmod>
