@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
 
-  mainSections = ['blog']
+  mainSections = ['blog', 'events']
   sponsors = ['sponsors']
 
   googleFonts = true
@@ -53,6 +53,12 @@ enableRobotsTXT = true
   #  name = "Cars"
   #  url = "/cars/"
   #  weight = 3
+
+  [[menu.main]]
+    identifier = "events"
+    name = "Events"
+    url = "/events/"
+    weight = 5
   
   [[menu.main]]
     identifier = "team"

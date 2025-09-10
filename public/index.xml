@@ -72,24 +72,10 @@
       <description>&lt;p&gt;NUC2 is now the oldest car to date that still runs. It is kinda broken.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Diego Garcia</title>
-      <link>http://localhost:1313/team/alumni/diego_garcia/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/alumni/diego_garcia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jari Stadler</title>
-      <link>http://localhost:1313/team/alumni/jari_stadler/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/alumni/jari_stadler/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Mattia Dal Bò</title>
-      <link>http://localhost:1313/team/alumni/mattia_dal_bo/</link>
+      <link>http://localhost:1313/team/mattia_dal_bo/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/alumni/mattia_dal_bo/</guid>
+      <guid>http://localhost:1313/team/mattia_dal_bo/</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +83,6 @@
       <link>http://localhost:1313/team/michael_lotscher_2/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
       <guid>http://localhost:1313/team/michael_lotscher_2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nadine Imholz</title>
-      <link>http://localhost:1313/team/nadine_imholz/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/nadine_imholz/</guid>
       <description></description>
     </item>
     <item>
@@ -121,10 +100,31 @@
       <description>&lt;p&gt;NUC5 has the strongest CPU (i7) and also is the lightest. Coupled with a &lt;a href=&#34;https://www.hobbywing.com/en/products/ezrun-3652--3665-sd-g3261.html&#34;&gt;Hobbywing 3652 3100kV&lt;/a&gt; sensored BLDC, it is our fastest car and the one we send to get championship glory.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Join our Team</title>
+      <link>http://localhost:1313/team/michael_lotscher-copy/</link>
+      <pubDate>Mon, 29 Jan 2024 11:10:55 +0100</pubDate>
+      <guid>http://localhost:1313/team/michael_lotscher-copy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NUC6</title>
+      <link>http://localhost:1313/cars/nuc6/</link>
+      <pubDate>Sun, 23 Jun 2024 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/cars/nuc6/</guid>
+      <description>&lt;p&gt;NUC6 is our development workhorse. We test lots of stuff on it.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Christopher Bennewitz</title>
       <link>http://localhost:1313/team/alumni/christopher_bennewitz/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
       <guid>http://localhost:1313/team/alumni/christopher_bennewitz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diego Garcia</title>
+      <link>http://localhost:1313/team/alumni/diego_garcia/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/alumni/diego_garcia/</guid>
       <description></description>
     </item>
     <item>
@@ -136,16 +136,16 @@
     </item>
     <item>
       <title>Jari Stadler</title>
-      <link>http://localhost:1313/team/alumni/jari_stadler2/</link>
+      <link>http://localhost:1313/team/alumni/jari_stadler/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/alumni/jari_stadler2/</guid>
+      <guid>http://localhost:1313/team/alumni/jari_stadler/</guid>
       <description></description>
     </item>
     <item>
       <title>Joel Siegert</title>
-      <link>http://localhost:1313/team/joel_sigert/</link>
+      <link>http://localhost:1313/team/alumni/joel_sigert/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/joel_sigert/</guid>
+      <guid>http://localhost:1313/team/alumni/joel_sigert/</guid>
       <description></description>
     </item>
     <item>
@@ -153,6 +153,13 @@
       <link>http://localhost:1313/team/alumni/mattia_dal_bo2/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
       <guid>http://localhost:1313/team/alumni/mattia_dal_bo2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nadine Imholz</title>
+      <link>http://localhost:1313/team/nadine_imholz/</link>
+      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
+      <guid>http://localhost:1313/team/nadine_imholz/</guid>
       <description></description>
     </item>
     <item>
@@ -168,13 +175,6 @@
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
       <guid>http://localhost:1313/team/alumni/tony_ngo/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>NUC6</title>
-      <link>http://localhost:1313/cars/nuc6/</link>
-      <pubDate>Sun, 23 Jun 2024 12:33:45 +1000</pubDate>
-      <guid>http://localhost:1313/cars/nuc6/</guid>
-      <description>&lt;p&gt;NUC6 is our development workhorse. We test lots of stuff on it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NUC2</title>
