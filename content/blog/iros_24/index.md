@@ -1,6 +1,6 @@
 +++
 author = "Tianyi Lim"
-title = "IROS 2024 F1TENTH GP"
+title = "IROS 2024 roboracer GP"
 title_short = "iros_24"
 date = "2024-10-18"
 tags = []
@@ -8,7 +8,7 @@ image = "blog/iros_24/cover.jpg"
 categories = ["Race"]
 +++
 
-The ForzaETH race team once again raced at the [*21st F1TENTH Autonomous Grand Prix*](https://iros2024-race.f1tenth.org/) at [IROS 2024](https://iros2024-abudhabi.org/) in Abu Dhabi, UAE. Following our 3rd place finish in Japan, the team worked hard to try to reclaim the title.
+The ForzaETH race team once again raced at the [*21st roboracer Autonomous Grand Prix*](https://iros2024-race.f1tenth.org/) at [IROS 2024](https://iros2024-abudhabi.org/) in Abu Dhabi, UAE. Following our 3rd place finish in Japan, the team worked hard to try to reclaim the title.
 
 The floor surface at IROS proved to be extremely grippy carpet. While the track area was smaller than at previous competitions, the track layout was technical, with sweeping corners, a hairpin, and chicanes. By our estimates, this would provide more than twice the lateral grip than we faced in Japan. This was a surprise to us, as we had spent most of the preparation time on lower-grip surfaces. Would our hardware and software be up for the task in this unfamiliar grip regime?
 
@@ -37,7 +37,7 @@ Still, we are satisfied with our performance this competition. During practice, 
 
 [![Predictive Spliner against a demo car](https://img.youtube.com/vi/zq-L64i11mM/maxresdefault.jpg)](https://www.youtube.com/watch?v=zq-L64i11mM)
 
-At the end of the competition, we even had a demo 3-car race with *Scuderia Segfault* -- a sneak peek of things to come. While we can't say that any team was particularly performant over the race, we're excited for the future of F1TENTH!
+At the end of the competition, we even had a demo 3-car race with *Scuderia Segfault* -- a sneak peek of things to come. While we can't say that any team was particularly performant over the race, we're excited for the future of roboracer!
 
 See you at the next competition -- CDC 2024 in Milano, or ICRA 25 in Atlanta!
 

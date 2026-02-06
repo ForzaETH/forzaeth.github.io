@@ -1,6 +1,6 @@
 +++
 author = "Michael Lötscher"
-title = "CDC 2024 F1TENTH GP"
+title = "CDC 2024 roboracer GP"
 title_short = "cdc_24"
 date = "2024-12-20"
 tags = []
@@ -8,7 +8,7 @@ image = "blog/cdc_24/cover2.jpeg"
 categories = ["Race"]
 +++
 
-We wrapped up 2024 with an exciting race at the The Roboracer Foundation 22nd F1TENTH Autonomous Grand Prix at CDC24 in Milano.
+We wrapped up 2024 with an exciting race at the The Roboracer Foundation 22nd roboracer Autonomous Grand Prix at CDC24 in Milano.
 
 Our primary objective was to test our reinforcement learning (RL) controller, which presented unique challenges. The track's rapidly changing grip conditions, caused by dust accumulation, complicated our policy training. Adapting to the intricate tire-floor dynamics proved difficult, making it challenging to outperform our existing MAP controller.
 

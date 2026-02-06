@@ -11,7 +11,7 @@ draft = "False"
 
 Introducing a new era of 1:10 scaled autonomous racing:
 
-We are thrilled to unveil the open-sourcing of the award-winning ForzaETH Race Stack. Showcased across numerous international F1TENTH races and securing 1st place at ICRA23, the ForzaETH Race Stack elevates the state-of-the-art, enabling new possibilities in scaled head-to-head autonomous racing.
+We are thrilled to unveil the open-sourcing of the award-winning ForzaETH Race Stack. Showcased across numerous international roboracer races and securing 1st place at ICRA23, the ForzaETH Race Stack elevates the state-of-the-art, enabling new possibilities in scaled head-to-head autonomous racing.
 
 Accompanying the open-sourcing, a paper titled "ForzaETH Race Stack - Scaled Autonomous Head-to-Head Racing on Fully Commercial off-the-Shelf Hardware" is available on arxiv, detailing the system's architecture, algorithms, and performance benchmarks.
 

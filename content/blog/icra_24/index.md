@@ -1,6 +1,6 @@
 +++
 author = "Luca Tognoni"
-title = "ICRA 2024 F1TENTH GP"
+title = "ICRA 2024 roboracer GP"
 title_short = "icra_24"
 date = "2024-05-19"
 tags = []
@@ -8,7 +8,7 @@ image = "blog/icra_24/cover.jpeg"
 categories = ["Race"]
 +++
 
-The ForzaETH race team participated in the *15th F1TENTH Autonomous Racing Competition* at the International Conference on Robotics and Automation in Yokohama, Japan. Our team, consisting of five students with diverse expertise in robotics, spent several months preparing our cars and rehearsing racing procedures. For the first time, the race team was entirely student-led and consisted of bachelor and master students. 
+The ForzaETH race team participated in the *15th roboracer Autonomous Racing Competition* at the International Conference on Robotics and Automation in Yokohama, Japan. Our team, consisting of five students with diverse expertise in robotics, spent several months preparing our cars and rehearsing racing procedures. For the first time, the race team was entirely student-led and consisted of bachelor and master students. 
 
 Upon arriving in Japan, we immediately began training to optimize the tuning process. However, issues with the internet connection made the process considerably harder as live telemetry from the car was unavailable. Despite this setback, our familiarity with the car allowed us to achieve impressive lap times. During the time-trials phase, we qualified in 3rd place out of 18 teams from around the world, positioning us well for the head-to-head phase of the tournament.
 

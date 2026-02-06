@@ -6,16 +6,16 @@ aliases = []
 author = "Edoardo Ghignone"
 +++
 
-ForzaETH is the F1TENTH team by Autonomous Racing Zürich. We are associated with the [Center for Project Based Learning](https://pbl.ee.ethz.ch/), D-ITET, ETH Zürich.
+ForzaETH is the roboracer team by Autonomous Racing Zürich. We are associated with the [Center for Project Based Learning](https://pbl.ee.ethz.ch/), D-ITET, ETH Zürich.
 
 ## Who are we?
-ForzaETH is a team of students engaged in autonomous racing at a 1:10 scale. The team originated in the fall of 2021 and began as a research project at the Center for Project-Based Learning at ETH Zurich. We develop autonomous race cars to participate in international F1TENTH races. F1TENTH is an autonomous racing organization where teams compete against each other using standardized 1:10 scale model car chassis, which are then modified with sensors and processors of the team's choice. What sets F1TENTH apart is that the cars compete head-to-head, a feature that can be dangerous and impractical in full-scale autonomous races.
+ForzaETH is a team of students engaged in autonomous racing at a 1:10 scale. The team originated in the fall of 2021 and began as a research project at the Center for Project-Based Learning at ETH Zurich. We develop autonomous race cars to participate in international roboracer races. roboracer is an autonomous racing organization where teams compete against each other using standardized 1:10 scale model car chassis, which are then modified with sensors and processors of the team's choice. What sets roboracer apart is that the cars compete head-to-head, a feature that can be dangerous and impractical in full-scale autonomous races.
 
-Learn more about F1TENTH [here](https://roboracer.ai/)
+Learn more about roboracer [here](https://roboracer.ai/)
 
 
 ## Previous Achievements
-Just six months after our foundation, in 2022, we participated in the F1TENTH Grand Prix at the International Conference on Robotics and Automation (ICRA) in Philadelphia, securing a strong fourth place. In August 2022, we achieved our first victory in a smaller race in Germany. Thanks to significant progress in the development of our racing software, we triumphed over 22 teams from around the world in May 2023, winning the Grand Prix at the ICRA in London. After this we secured numerous podium places at prestigious robotics conferences like ICRA 2024 (Yokohama), IROS 2024 (Abu Dhabi) and CDC 2024 (Milan). This positions us as one of the strongest F1TENTH teams globally, and we hope to build on these successes in the future. In addition to our racing achievements, we have been able to publish some of our developments as scientific papers and participate in exhibitions such as Scientifica.
+Just six months after our foundation, in 2022, we participated in the roboracer Grand Prix at the International Conference on Robotics and Automation (ICRA) in Philadelphia, securing a strong fourth place. In August 2022, we achieved our first victory in a smaller race in Germany. Thanks to significant progress in the development of our racing software, we triumphed over 22 teams from around the world in May 2023, winning the Grand Prix at the ICRA in London. After this we secured numerous podium places at prestigious robotics conferences like ICRA 2024 (Yokohama), IROS 2024 (Abu Dhabi) and CDC 2024 (Milan). This positions us as one of the strongest roboracer teams globally, and we hope to build on these successes in the future. In addition to our racing achievements, we have been able to publish some of our developments as scientific papers and participate in exhibitions such as Scientifica.
 
 Look at our [Blog]({{< ref "/blog" >}}) to learn about our latest achievements
 
@@ -31,7 +31,7 @@ We are a dynamic group of students who bring their academic passion and expertis
 
 ## Our Goal
 
-We want to push the boundaries of autonomous driving and contribute to the development of this technology. Our goal is to become one of the leading teams in the F1TENTH community and to inspire others to engage in this exciting field. We also want to inspire the next generation of engineers and researchers by giving them the opportunity to work on cutting-edge autonomous driving technology.
+We want to push the boundaries of autonomous driving and contribute to the development of this technology. Our goal is to become one of the leading teams in the roboracer community and to inspire others to engage in this exciting field. We also want to inspire the next generation of engineers and researchers by giving them the opportunity to work on cutting-edge autonomous driving technology.
 
 
 
