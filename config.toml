@@ -111,6 +111,6 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "GitHub"
-    url = "https://https://github.com/ForzaETH"
+    url = "https://github.com/ForzaETH"
     pre = "GitHub"
       weight = 3
