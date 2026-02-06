@@ -17,7 +17,7 @@
     <loc>http://localhost:1313/team/luca_schwarzenbach/</loc>
     <lastmod>2024-01-29T11:10:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/nadine_imholz_2/</loc>
+    <loc>http://localhost:1313/team/nadine_imholz/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/team/luca_tognoni/</loc>
@@ -29,26 +29,26 @@
     <loc>http://localhost:1313/cars/nuc2/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/maurice_brunner/</loc>
-    <lastmod>2024-01-29T11:10:52+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/team/mattia_dal_bo/</loc>
-    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/team/michael_lotscher_2/</loc>
-    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cars/nuc3/</loc>
     <lastmod>2020-01-28T14:07:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cars/nuc5/</loc>
     <lastmod>2024-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/michael_lotscher-copy/</loc>
+    <loc>http://localhost:1313/team/join_us/</loc>
     <lastmod>2024-01-29T11:10:55+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cars/nuc6/</loc>
     <lastmod>2024-06-23T12:33:45+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/maurice_brunner/</loc>
+    <lastmod>2024-01-29T11:10:52+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/team/mattia_dal_bo/</loc>
+    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cars/nuc7/</loc>
+    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/team/alumni/christopher_bennewitz/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
@@ -68,17 +68,11 @@
     <loc>http://localhost:1313/team/alumni/mattia_dal_bo2/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/nadine_imholz/</loc>
-    <lastmod>2024-01-29T11:08:07+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/team/alumni/paviththiren_sivasothilingam/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/team/alumni/tony_ngo/</loc>
     <lastmod>2024-01-29T11:08:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cars/nuc7/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
