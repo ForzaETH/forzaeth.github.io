@@ -44,10 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Michael</title>
-      <link>http://localhost:1313/team/nadine_imholz_2/</link>
+      <title>Nadine Imholz</title>
+      <link>http://localhost:1313/team/nadine_imholz/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/nadine_imholz_2/</guid>
+      <guid>http://localhost:1313/team/nadine_imholz/</guid>
       <description></description>
     </item>
     <item>
@@ -58,24 +58,24 @@
       <description></description>
     </item>
     <item>
+      <title>Join our Team</title>
+      <link>http://localhost:1313/team/join_us/</link>
+      <pubDate>Mon, 29 Jan 2024 11:10:55 +0100</pubDate>
+      <guid>http://localhost:1313/team/join_us/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maurice Brunner</title>
+      <link>http://localhost:1313/team/maurice_brunner/</link>
+      <pubDate>Mon, 29 Jan 2024 11:10:52 +0100</pubDate>
+      <guid>http://localhost:1313/team/maurice_brunner/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mattia Dal Bò</title>
       <link>http://localhost:1313/team/mattia_dal_bo/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
       <guid>http://localhost:1313/team/mattia_dal_bo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Michael Lötscher</title>
-      <link>http://localhost:1313/team/michael_lotscher_2/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/michael_lotscher_2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Join our Team</title>
-      <link>http://localhost:1313/team/michael_lotscher-copy/</link>
-      <pubDate>Mon, 29 Jan 2024 11:10:55 +0100</pubDate>
-      <guid>http://localhost:1313/team/michael_lotscher-copy/</guid>
       <description></description>
     </item>
     <item>
@@ -118,13 +118,6 @@
       <link>http://localhost:1313/team/alumni/mattia_dal_bo2/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
       <guid>http://localhost:1313/team/alumni/mattia_dal_bo2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nadine Imholz</title>
-      <link>http://localhost:1313/team/nadine_imholz/</link>
-      <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
-      <guid>http://localhost:1313/team/nadine_imholz/</guid>
       <description></description>
     </item>
     <item>

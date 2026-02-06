@@ -1,82 +1,72 @@
+// ...existing code...
 +++
 author = "ForzaETH"
-title = "Join Us at the Hangar - October 3rd"
-date = "2025-09-10"
-description = "Experience autonomous racing up close! Join ForzaETH on October 3rd at the Hangar in Dübendorf for an exclusive event featuring our autonomous race cars, free BBQ, drinks, and networking opportunities."
+title = "Open Evening & General Assembly — March 5th, 2026"
+date = "2026-03-05"
+description = "Join ForzaETH on March 5th at IPZ, Dübendorf: an open evening to meet the team and recruit new members, followed by our general assembly (open to all; voting reserved for members)."
 image = "img/hangar-event.jpg"
 +++
 
-# 🏁 Experience Autonomous Racing Like Never Before
+# 🏁 Open Evening & General Assembly
 
-## Join ForzaETH at IPZ — October 3rd, 2025
+## ForzaETH at IPZ — March 5th, 2026
 
 📍 **Location:** IPZ, Dübendorf — Wangenstrasse 68  
-⏰ **Time:** Start **17:00** · Project Presentation **18:00**  
-💸 **Cost:** **FREE** — BBQ & Drinks Included  
+⏰ **Schedule:**  
+- **17:00–19:00 — Open Evening (everyone welcome):** demos, car showcase, meet the team, snacks & drinks  
+- **19:00–20:30 — General Assembly (open to everyone):** association reports, discussion, and member votes
+
+💸 **Cost:** **FREE** — Snacks & Drinks Included
 
 ---
 
-### What Awaits You
+### Dual-purpose event — who it's for
 
-Get to know **ForzaETH**, A student association focussed on **autonomous racing**.  
-Learn how we build, program, and race **1:10 scale autonomous cars** — and find out how **you** can get involved!
+This event has two linked purposes:
 
----
+- Public open evening (17:00–19:00): we welcome students and enthusiasts interested in joining ForzaETH. See our 1:10 autonomous race cars, talk to current members, and learn about projects and roles.
+- General Assembly (19:00–20:30): open for everyone to attend and observe; only registered members will have voting rights during the assembly.
 
-#### 🚗 See Our Autonomous Race Cars in Action
-Watch our state-of-the-art **1:10 scale autonomous vehicles** showcase their capabilities on the track.  
-Our team members will explain the technology behind our **perception, planning, and control** algorithms.
+If you are unsure whether you are a member, contact us before the event (see below).
 
 ---
 
-#### 🍖 Free BBQ & Drinks
-Enjoy delicious food and refreshing drinks while connecting with **like-minded tech enthusiasts, engineers, and racing fans**.
+### What to expect (open portion)
+
+- Live demonstrations of our autonomous race cars and short tech talks on perception, planning, and control.  
+- Presentations about team roles: Software & AI, Hardware & Systems, Operations & Outreach.  
+- Informal Q&A and sign-up opportunities for project roles and trial tasks.
 
 ---
 
-#### 🤝 Join Us
-Meet our team and explore how you can contribute:  
-- Work on **freelance projects** to gain hands-on experience  
-- Apply your knowledge in **robotics, AI, and autonomous systems**  
-- Get the chance to **join our racing team** and compete internationally  
+### General Assembly (open to all; voting for members only)
+
+- Formal agenda with board reports, financials, and association matters.  
+- Open discussion — everyone is welcome to attend and participate in conversations.  
+- Voting: only registered members will be able to cast votes. Members should confirm attendance to receive voting credentials and meeting documents.
 
 ---
 
-#### 🔧 Discover Project Opportunities
-We're looking for talented and motivated students in areas such as:  
-- **Software & AI**: ROS, SLAM, Reinforcement Learning, Path Planning, MPC  
-- **Hardware & Systems**: Car design, sensor integration, testing  
-- **Operations & Outreach**: Sponsors, marketing, and event management  
+### Who should attend?
 
-Whether you're a beginner or already experienced, there’s a place for you on the team.
+- Prospective members: students interested in robotics, AI, autonomous systems, or motorsport.  
+- Current members: encouraged to attend and vote during the GA.  
+- Anyone curious about autonomous racing and student-led engineering projects.
 
 ---
 
-### Who Should Attend?
+### How to join / RSVP
 
-- Students interested in **robotics, AI, or autonomous vehicles**  
-- Engineers and programmers curious about **hands-on racing projects**  
-- People who want to **work on freelance projects** and join our race-team
-- Anyone who loves **motorsport and robotics**
-
----
-
-### Ready to Join Us?
-
-Don't miss this exclusive opportunity to dive into the world of **autonomous racing**.  
-Sign up to secure your spot — spaces are limited!
-
-**[➡ Sign Up Here](https://forms.gle/CYT1bV1VPXU61AHYA)**
+- Prospective members: please sign up to reserve a spot for the open evening:  
+  [➡ Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLScd4dvWn7Qz15DOzqR1cxXaK_STgvDUXM9Rww1uCch7GivxLg/viewform?usp=sharing&ouid=112303655058463535700)  
+- Current members: check your email for GA documents and confirm attendance if you plan to join.
 
 ---
 
 ### About ForzaETH
 
-**ForzaETH** is ETH Zurich’s student association dedicated to pushing the limits of **autonomous racing**.  
-Since 2021, we’ve been developing **cutting-edge AI, robotics, and racing technologies** and competing internationally at events like **F1TENTH ICRA** and **IROS**.
-
-We combine a passion for motorsport with technical expertise — and we’re always looking for new talent to join the journey.
+ForzaETH is ETH Zurich’s student association dedicated to autonomous racing. Since 2021 we develop hardware and software for 1:10 scale autonomous race cars and compete internationally. We welcome beginners and experienced students alike.
 
 ---
 
-*We look forward to seeing you at **IPZ** on **October 3rd, 2025**!* 🚀
+We look forward to meeting you on **March 5th, 2026** — come for the demos, stay for the community. 🚀

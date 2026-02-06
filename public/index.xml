@@ -44,7 +44,7 @@
       <description></description>
     </item>
     <item>
-      <title>Michael</title>
+      <title>Nadine Imholz</title>
       <link>http://localhost:1313/team/nadine_imholz_2/</link>
       <pubDate>Mon, 29 Jan 2024 11:08:07 +0100</pubDate>
       <guid>http://localhost:1313/team/nadine_imholz_2/</guid>
@@ -70,6 +70,13 @@
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       <guid>http://localhost:1313/cars/nuc2/</guid>
       <description>&lt;p&gt;NUC2 is now the oldest car to date that still runs. It is kinda broken.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Maurice Brunner</title>
+      <link>http://localhost:1313/team/maurice_brunner/</link>
+      <pubDate>Mon, 29 Jan 2024 11:10:52 +0100</pubDate>
+      <guid>http://localhost:1313/team/maurice_brunner/</guid>
+      <description></description>
     </item>
     <item>
       <title>Mattia Dal Bò</title>
