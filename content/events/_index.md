@@ -1,4 +1,3 @@
-// ...existing code...
 +++
 author = "ForzaETH"
 title = "Open Evening & General Assembly — March 5th, 2026"
