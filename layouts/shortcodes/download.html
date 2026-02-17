@@ -1,0 +1,14 @@
+{{- $file := .Get 0 -}}
+{{- if not $file -}}
+  {{- errorf "download shortcode requires a file name" -}}
+{{- end -}}
+{{- $label := .Get 1 | default $file -}}
+{{- $resource := .Page.Resources.GetMatch $file -}}
+{{- $href := "" -}}
+{{- if $resource -}}
+  {{- $href = $resource.RelPermalink -}}
+{{- else -}}
+  {{- /* fallback to relURL for assets that are not page resources */ -}}
+  {{- $href = relURL $file -}}
+{{- end -}}
+<a class="download-link" href="{{ $href }}" download>{{ $label }}</a>

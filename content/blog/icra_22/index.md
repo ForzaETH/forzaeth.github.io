@@ -1,12 +1,11 @@
 ---
 title: "ICRA 2022"
 date: "2022-05-25"
-image: "blog/icra_22/cover.jpg"
+image: "blog/icra_22/cover3.jpeg"
 draft: false
 author: "Edoardo Ghignone"
-decription: ""
+description: ""
 tags: []
-image: "/blog/icra_22/cover3.jpeg"
 categories: ["Race"]
 ---
 

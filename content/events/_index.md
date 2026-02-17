@@ -1,10 +1,11 @@
-+++
-author = "ForzaETH"
-title = "Open Evening & General Assembly — March 5th, 2026"
-date = "2026-03-05"
-description = "Join ForzaETH on March 5th at IPZ, Dübendorf: an open evening to meet the team and recruit new members, followed by our general assembly (open to all; voting reserved for members)."
-image = "img/hangar-event.jpg"
-+++
+---
+author: "ForzaETH"
+title: "Open Evening & General Assembly — March 5th, 2026"
+date: "2026-03-05"
+description: "Join ForzaETH on March 5th at IPZ, Dübendorf: an open evening to meet the team and recruit new members, followed by our general assembly (open to all; voting reserved for members)."
+summary: "Join ForzaETH on March 5th at IPZ, Dübendorf for demos and the association's general assembly."
+image: "img/hangar-event.jpg"
+---
 
 # 🏁 Open Evening & General Assembly
 
